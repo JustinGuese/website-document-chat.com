@@ -1,0 +1,67 @@
+############# Navegación en español ##############
+# menú principal
+[[main]]
+name = "Inicio"
+url = ""
+weight = 1
+
+[[main]]
+name = "Cómo funciona"
+url = "how-it-works/"
+weight = 2
+
+[[main]]
+name = "Precios"
+url = "pricing/"
+weight = 3
+
+[[main]]
+name = "Contacto"
+url = "contact/"
+weight = 4
+
+[[main]]
+name = "Acerca de"
+weight = 5
+hasChildren = true
+
+  [[main]]
+  parent = "Acerca de"
+  name = "Tutoriales"
+  url = "/blog"
+
+  [[main]]
+  parent = "Acerca de"
+  name = "Mi suscripción"
+  url = "https://billing.stripe.com/p/login/test_bIY6pJesg2dC9iMdQQ"
+
+  [[main]]
+  parent = "Acerca de"
+  name = "Términos y condiciones"
+  url = "terms-conditions/"
+
+  [[main]]
+  parent = "Acerca de"
+  name = "Política de privacidad"
+  url = "privacy-policy/"
+
+  [[main]]
+  parent = "Acerca de"
+  name = "Imprint"
+  url = "impressum/"
+
+# Menú de pie de página
+[[footer]]
+name = "Contacto"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "Términos y condiciones"
+url = "terms-conditions/"
+weight = 2
+
+[[footer]]
+name = "Política de privacidad"
+url = "privacy-policy/"
+weight = 3

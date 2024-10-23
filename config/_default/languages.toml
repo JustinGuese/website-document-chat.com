@@ -15,8 +15,29 @@ languageName = "CN"
 languageCode = "zh-CN"
 contentDir = "content/chinese"
 weight = 2
-[de.params]
+[zh-cn.params]
 footer_content = "Docu-chat.de - 您的全知助手，提供公司知识。最大化您的效率，最小化您的搜索时间。因为CEO应该专注于决策，而不是寻找信息。"
 # copyright
 copyright = "Copyright by DataFortress.cloud"
 
+################################### spanish language #####################################
+[es]
+languageName = "ES"
+languageCode = "es-ES"
+contentDir = "content/spanish"
+weight = 2
+[es.params]
+footer_content = "Docu-chat.de - tu asistente omnisciente para el conocimiento de la empresa. Maximiza tu eficiencia, minimiza tu tiempo de búsqueda. Porque los CEOs deben centrarse en tomar decisiones, no en buscar información."
+# copyright
+copyright = "Copyright by DataFortress.cloud"
+
+################################### french language #####################################
+[fr]
+languageName = "FR"
+languageCode = "fr-FR"
+contentDir = "content/french"
+weight = 2
+[fr.params]
+footer_content = "Docu-chat.de - votre assistant omniscient pour la connaissance de l'entreprise. Maximisez votre efficacité, minimisez votre temps de recherche. Parce que les PDG doivent se concentrer sur la prise de décisions, pas sur la recherche d'informations."
+# copyright
+copyright = "Copyright by DataFortress.cloud"

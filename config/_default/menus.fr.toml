@@ -1,0 +1,67 @@
+############# Navigation française ##############
+# menu principal
+[[main]]
+name = "Accueil"
+url = ""
+weight = 1
+
+[[main]]
+name = "Comment ça marche"
+url = "how-it-works/"
+weight = 2
+
+[[main]]
+name = "Tarifs"
+url = "pricing/"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+[[main]]
+name = "À propos"
+weight = 5
+hasChildren = true
+
+  [[main]]
+  parent = "À propos"
+  name = "Tutoriels"
+  url = "/blog"
+
+  [[main]]
+  parent = "À propos"
+  name = "Mon abonnement"
+  url = "https://billing.stripe.com/p/login/test_bIY6pJesg2dC9iMdQQ"
+
+  [[main]]
+  parent = "À propos"
+  name = "Conditions générales"
+  url = "terms-conditions/"
+
+  [[main]]
+  parent = "À propos"
+  name = "Politique de confidentialité"
+  url = "privacy-policy/"
+
+  [[main]]
+  parent = "À propos"
+  name = "Mentions légales"
+  url = "impressum/"
+
+# menu de pied de page
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "C.G.U."
+url = "terms-conditions/"
+weight = 2
+
+[[footer]]
+name = "Politique de confidentialité"
+url = "privacy-policy/"
+weight = 3
