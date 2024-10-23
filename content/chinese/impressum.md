@@ -1,11 +1,14 @@
-Responsible for the content of this website:
+---
+''
+
+---
+网站内容负责人：
 
 DataFortress.cloud UG
-Georgenstraße 13
-86152 Augsburg
-Germany
+德国奥格斯堡 Georgenstraße 13
+86152
 DE345185498
 
-HRB 36456 
+公司注册号 HRB 36456
 
 info@datafortress.cloud

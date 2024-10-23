@@ -1,12 +1,12 @@
 ---
-title : "Free PDF: ChatGPT und Dokumente"
-description : "this is meta description"
-draft : false
+title: "Free PDF: ChatGPT and Documents"
+description: "This is a meta description"
+draft: false
 ---
 
-## Download unseres Guides:
+## Download our guide:
 
-<a href="/files/Anleitung%20Dokumente%20%26%20ChatGPT.pdf" download>
+<a href="/files/Guide%20Documents%20%26%20ChatGPT.pdf" download>
 <img src="/images/cover-pdf.png" width="400px" />
 <button class="btn btn-primary">Download</button>
 </a>

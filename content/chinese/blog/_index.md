@@ -1,9 +1,9 @@
 ---
-title : "Blog"
-description : "this is meta description"
-draft : false
----
+description: this is meta description
+draft: false
+title: Blog
 
-## Find A **Source Of Knowledge**
+---
+## 寻找**知识之源**
 
 Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat sed.

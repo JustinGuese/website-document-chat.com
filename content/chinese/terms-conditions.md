@@ -1,176 +1,174 @@
 ---
-title: "Terms & Conditions"
-description: "this is meta description"
-layout: "regular"
+description: this is meta description
 draft: false
+layout: regular
+title: 服务条款
+
 ---
+# document-chat.com使用条款
 
-# Terms and Conditions of
+本条款规定
 
-**document-chat.com**
+- 本应用的使用，以及
+- 与所有者之间任何其他相关协议或法律关系
 
-These terms govern
+具有法律约束力。大写字母的词语在本文档相应部分中定义。
 
-- the use of this application, and,
-- any other related agreement or legal relationship with the owner
+用户必须仔细阅读本文档。
 
-in a legally binding manner. Words in uppercase are defined in the corresponding section of this document.
-
-Users must read this document carefully.
-
-This application is provided by:
+本应用由以下组织提供：
 
 DataFortress.cloud UG
 Georgenstraße 13
-86152 Augsburg
-Germany
+86152 奥格斯堡
+德国
 DE345185498
 
-**Owner's Contact Email:** info@datafortress.cloud
+**所有者联系电子邮件：** info@datafortress.cloud
 
-**What the User Should Know at a Glance**
+**用户快速了解**
 
-- The service/this application is intended for users who are not considered consumers, such as business users.
+- 该服务/本应用面向非消费者用户，例如商业用户。
 
-**TERMS OF USE**
+**使用条款**
 
-Unless otherwise specified, the terms of use listed in this section generally apply to the use of this application.
+除非另有说明，本节列出的使用条款通常适用于本应用的使用。
 
-Individual or additional usage or access terms may apply in specific scenarios and will be additionally specified in such cases within this document.
+在特定情况下，可能适用单独或附加的使用或访问条款，并在本文档中另外说明。
 
-By using this application, users confirm that they meet the following requirements:
+通过使用本应用，用户确认他们满足以下要求：
 
-- Users must not be considered consumers;
-- Users are not located in a country subject to a US government embargo or classified by the US government as a "terrorist supporting" country;
-- Users are not listed on any US government list of prohibited or restricted parties;
+- 用户不得被视为消费者；
+- 用户所在地国并非受美国政府制裁或被美国政府列为“支持恐怖主义”国家；
+- 用户未被列入任何美国政府的禁止或限制参与者名单；
 
-**Account Registration**
+**账户注册**
 
-To use the service, users must register or create a user account, providing all required data and information fully and truthfully.
-Otherwise, the service will not be available.
+为了使用该服务，用户必须注册或创建用户账户，并完整且真实地提供所有必要的数据和信息。
+否则，服务将不可用。
 
-Users are responsible for keeping their login credentials confidential and secure. Therefore, users are also required to choose passwords that meet the highest security standards allowed by this application.
+用户有责任保密和安全地保管其登录凭据。因此，用户还必须选择符合本应用允许的最高安全标准的密码。
 
-By registering, users agree to take full responsibility for all activities that occur under their username and password.
-Users are required to promptly and unambiguously inform the owner via the contact details provided in this document if they believe their personal information, including but not limited to user accounts, access credentials, or personal data, has been breached, unlawfully disclosed, or stolen.
+通过注册，用户同意对在其用户名和密码下发生的全部活动承担全部责任。
+如果用户认为其个人信息（包括但不限于用户帐户、访问凭据或个人数据）遭到违规披露、非法泄露或盗窃，用户必须立即并明确地通过本文档中提供的联系方式通知所有者。
 
-**Account Termination**
+**账户终止**
 
-Users may terminate their account at any time and cease using the service by doing the following:
+用户可随时终止其帐户并停止使用该服务，方法如下：
 
-- By directly contacting the owner at the contact details provided in this document.
+- 直接联系本文档中提供的所有者联系方式。
 
-**Account Suspension and Deletion**
+**账户暂停和删除**
 
-The owner reserves the right, at its discretion and without prior notice, to suspend or delete user accounts that it considers inappropriate, offensive, or in violation of these terms.
+所有者保留根据其判断并无需事先通知暂停或删除其认为不当、具有冒犯性或违反这些条款的用户帐户的权利。
 
-The suspension or deletion of user accounts does not entitle users to compensation, damages, or refunds.
+用户帐户的暂停或删除不赋予用户任何赔偿、损害赔偿或退款的权利。
 
-The suspension or deletion of accounts due to causes attributable to the user does not exempt the user from paying any applicable fees or prices.
+由于用户原因导致的账户暂停或删除，并不免除用户支付任何适用费用或价格的义务。
 
-**Content of this Application**
+**本应用内容**
 
-Unless otherwise specified or clearly recognizable, all content available in this application is the property of the owner or its licensors or is provided by them.
+除非另有规定或明确可辨认，本应用中所有可用内容均归所有者或其许可人所有，或由他们提供。
 
-The operator makes every effort to ensure that the content provided on this application does not violate any applicable laws or third-party rights. However, it is not always possible to achieve such a result.
-In such cases, users are requested, without prejudice to their statutory rights, to preferably report complaints via the contact details provided in this document.
+运营商竭力确保本应用中提供的内容不违反任何适用法律或第三方权利。但是，并非总是能够实现此结果。
+在这些情况下，用户应，且不损害其法定权利，最好通过本文档提供的联系方式报告投诉。
 
-**Content Rights of this Application - All Rights Reserved**
+**本应用内容权利 - 保留所有权利**
 
-The owner holds and reserves all intellectual property rights to this content.
+所有者拥有并保留此内容的所有知识产权。
 
-Therefore, users may not use this content in a manner that is not necessary or implied for the proper use of the service.
+因此，用户不得以不必要或不符合服务正常使用的方式使用此内容。
 
-In particular, but without limitation, users may not copy, download, distribute (beyond the limits specified below), modify, translate, transform, publish, transmit, sell, sublicense, edit, assign to third parties, or create derivative works thereof of the content available in this application, nor may they allow third parties to do so through the user or their device, even without the user's knowledge.
+特别是但无限制地，用户不得复制、下载、分发（超出以下规定的限制）、修改、翻译、转换、发布、传输、出售、转授权、编辑、将其分配给第三方或创建衍生作品，也不得允许第三方通过用户或其设备（即使用户不知情）这么做。
 
-Unless expressly stated in this application, users may download, copy, and/or distribute some of the content available through this application for their exclusively personal and non-commercial use, provided that copyright notices and any other notices required by the owner are correctly implemented.
+除非本应用中明确声明，用户可下载、复制和/或分发本应用中提供的一些内容以供其个人和非商业用途，条件是正确执行所有者要求的版权声明以及任何其他通知。
 
-Any applicable legal restriction or exception to copyright remains unaffected.
+任何适用的法律限制或版权例外情况不受影响。
 
-**Access to External Resources**
+**访问第三方资源**
 
-Through this application, users may have access to external resources provided by third parties. Users acknowledge and accept that the owner has no control over these resources and is therefore not responsible for their content and availability.
+通过本应用，用户可能可以访问第三方提供的外部资源。用户认可并接受所有者不控制这些资源，因此对这些资源的内容和可用性概不负责。
 
-The terms governing resources provided by third parties, including the terms for granting rights to the content, are set forth in the general terms and conditions of those third parties or, in the absence of such terms, in the applicable statutory law.
+第三方提供的资源的管理条款，包括授予内容使用权的条款，以这些第三方的通用条款和条件或（如果不存在此类条款）适用的法律规定为准。
 
-**Permissible Use**
+**允许的使用**
 
-This application and the service may only be used within their intended purpose, these terms, and applicable law.
+本应用和服务只能在其预期用途、这些条款和适用法律范围内使用。
 
-Users are solely responsible for ensuring that their use of this application and/or the service does not violate applicable law, regulations, or third-party rights.
+用户完全有责任确保自己使用本应用和/或服务的行为不违反任何适用的法律、法规或第三方权利。
 
-Therefore, the owner reserves the right to take any appropriate measures to protect its legitimate interests, including denying access to this application or the service, terminating contracts, and reporting misconduct committed through this application or the service to the competent authorities - such as judicial or administrative authorities - if users engage in any of the following activities or there is suspicion of their involvement in such activities:
+因此，所有者保留采取任何适当措施以保护其合法权益的权利，包括拒绝访问本应用或服务、终止合同以及如果用户参与任何以下活动或有参与此类活动的疑虑，则向主管机构（例如司法或行政机构）报告通过本应用或服务所产生的不当行为：
 
-- violating laws, regulations, and/or these terms;
-- infringing third-party rights;
-- compromising the security or integrity of the service;
-- hacking, including but not limited to attempts to circumvent or violate security features, authentication measures, or content restrictions;
-- distributing, introducing, or spreading viruses, malware, or other harmful software;
-- performing any action that may impose an unreasonable or disproportionate load on this application's infrastructure;
-- using any software, robot, or automated system to access, acquire, extract, or copy content or information from this application;
-- taking any action that imposes or may impose an unreasonable or disproportionately large burden on this application's infrastructure;
-- interfering with the proper functioning of this application and the service;
-- copying, reproducing, altering, modifying, or disseminating content provided through this application or the service or allowing third parties to do so;
-- circumventing, disabling, or otherwise interfering with security-related features of this application or the service or features that prevent or restrict the use or copying of content available through this application or the service.
+- 违反法律、法规和/或本条款；
+- 侵犯第三方权利；
+- 危害服务的安全性或完整性；
+- 黑客行为，包括但不限于尝试规避或违反安全功能、身份验证措施或内容限制；
+- 分发、引入或传播病毒、恶意软件或其他有害软件；
+- 执行可能对本应用基础设施造成不合理或不成比例负荷的任何操作；
+- 使用任何软件、机器人或自动化系统访问、获取、提取或复制本应用中的内容或信息；
+- 采取任何可能对本应用基础设施造成不合理或不成比例巨大负担的操作；
+- 干扰本应用和服务的正常运行；
+- 复制、再现、更改、修改或传播通过本应用或服务提供的任何内容，或允许第三方这样做；
+- 规避、禁用或以其他方式干扰本应用或服务的安全相关功能或防止或限制通过本应用或服务使用或复制可用内容的功能。
 
-**Privacy Policy**
+**隐私政策**
 
-For information about the use of personal data, users should refer to the privacy policy of this application.
+有关个人数据使用情况的信息，用户应参考本应用的隐私政策。
 
-**Intellectual Property Rights**
+**知识产权**
 
-Without prejudice to any more specific provision of these terms, any intellectual property rights, such as copyrights, trademark rights, patent rights, and design rights related to this application are the exclusive property of the owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.
+除本条款任何更具体条款外，与本应用相关的任何知识产权（例如，版权、商标权、专利权和设计权）均为所有者或其许可人的专属财产，并受适用法律或国际条约（涉及知识产权）所赋予的保护。
 
-All trademarks - nominal or figurative - and all other marks, trade names, service marks, word marks, illustrations, images, or logos appearing in connection with this application are, unless otherwise indicated, trademarks owned by the owner or its licensors and are subject to the protection granted by applicable laws or international treaties relating to intellectual property.
+所有与本应用相关的商标（名义或图示）以及所有其他标记、商号、服务标记、文字标记、插图、图像或徽标，除非另有说明，均为所有者或其许可人拥有的商标，并受适用法律或国际条约（涉及知识产权）所赋予的保护。
 
-**Changes to these Terms**
+**条款变更**
 
-The owner reserves the right to amend or otherwise modify these terms at any time, informing users by appropriately publishing a notice within this application.
+所有者保留随时修改或更改这些条款的权利，并通过在本应用中发布适当通知的方式通知用户。
 
-Users who continue to use this application after the publication of the changes accept the new terms in full.
+在变更发布后继续使用本应用的用户即被视为完全接受新的条款。
 
-**Assignment of Contract**
+**合同转让**
 
-The owner reserves the right to transfer, assign, dispose of by novation, or subcontract any or all rights or obligations under these terms, taking into account the legitimate interests of the user. Users may not assign or transfer their rights or obligations under these terms in any way without the written permission of the owner.
+所有者保留转让、转让、通过债务置换或分包本条款项下的任何或全部权利或义务的权利，同时考虑到用户的合法利益。用户未经所有者书面同意，不得以任何方式转让或转让其依据本条款的权利或义务。
 
-**Contacts**
+**联系方式**
 
-All communications relating to this application must be sent using the contact methods specified in this document.
+所有与本应用相关的通信均应使用本文档中指定的方法。
 
-**Severability**
+**可分割性**
 
-If any provision of these terms is or becomes invalid or unenforceable, the user will remain bound by all other provisions of these terms. In such a case, the invalid or unenforceable provision will be replaced by a valid and enforceable provision reflecting the intent of the original provision as closely as possible.
+如果本条款的任何条款无效或无法执行，用户仍将受本条款所有其他条款的约束。在这种情况下，无效或无法执行的条款将由反映原条款意图的有效和可执行条款代替。
 
-**Applicable Law and Jurisdiction**
+**适用法律和管辖权**
 
-These terms and all disputes regarding the execution, interpretation, and validity of this agreement are subject to the law, the jurisdiction, and the exclusive jurisdiction of the country in which the owner has its registered office, except where otherwise provided by mandatory law, in particular, for users who qualify as consumers.
+这些条款以及与本协议的执行、解释和有效性相关的任何争议，均受所有者注册地所在国家的法律、管辖权和专属管辖权的约束，除非另有强制性法律规定，特别是对于符合消费者资格的用户。
 
-**Definitions and References**
+**定义和参考文献**
 
-**OWNER**
+**所有者**
 
-Unless otherwise specified, the owner of this application is the natural or legal person who provides it.
+除非另有说明，本应用的所有者是提供该应用的自然人或法人。
 
-**SERVICE**
+**服务**
 
-The service provided by this application as described in these terms and on this application.
+本应用提供的服务（如本条款和本应用所述）。
 
-**USER**
+**用户**
 
-The natural or legal person who uses this application.
+使用本应用的自然人或法人。
 
-**CONSUMER**
+**消费者**
 
-Any natural person who uses this application for purposes unrelated to their commercial, business, craft, or professional activity, if any.
+任何使用本应用（如果有的话）与其商业、业务、工艺或专业活动无关的自然人。
 
-**COUNTRY**
+**国家**
 
-Refers to this user's country of residence, unless otherwise specified.
+除非另有说明，此术语指用户的居住国。
 
-**TERMS**
+**条款**
 
-All provisions applicable to the use of this application and/or the service described in this document, including any other related documents or agreements, and as amended from time to time.
+适用于本应用和/或服务使用的所有规定（如本文档中描述，包括任何其他相关文件或协议），以及不时进行的修改。
 
-**LEGAL INFORMATION**
+**法律信息**
 
-This document has been prepared based on provisions in various jurisdictions. If any provision or part of this document is deemed unenforceable or invalid under applicable law, it will not affect the enforceability or validity of the remaining provisions, and the provision in question will be interpreted in a manner consistent with applicable law to reflect the original intent of the parties as closely as possible. In such an event, the parties will amend or replace the affected provision with one that is valid and enforceable and that achieves, to the extent possible, the original objectives of the parties.
+这份文件是根据不同司法管辖区的规定制定的。如果本文件中的任何条款或部分在适用法律下被认为无法执行或无效，则不会影响剩余条款的可执行性或有效性，并且将以符合适用法律的方式解释有争议的条款，以尽可能反映各方的原始意图。在这种情况下，各方将用有效且可执行的条款修改或替换受影响的条款，以尽可能实现各方的最初目标。
