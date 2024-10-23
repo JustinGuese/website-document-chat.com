@@ -1,0 +1,67 @@
+############# 中文导航 ##############
+# 主菜单
+[[main]]
+name = "首页"
+url = ""
+weight = 1
+
+[[main]]
+name = "工作原理"
+url = "how-it-works/"
+weight = 2
+
+[[main]]
+name = "价格"
+url = "pricing/"
+weight = 3
+
+[[main]]
+name = "联系"
+url = "contact/"
+weight = 4
+
+[[main]]
+name = "关于"
+weight = 5
+hasChildren = true
+
+  [[main]]
+  parent = "关于"
+  name = "教程"
+  url = "/blog"
+
+  [[main]]
+  parent = "关于"
+  name = "我的订阅"
+  url = "https://billing.stripe.com/p/login/test_bIY6pJesg2dC9iMdQQ"
+
+  [[main]]
+  parent = "关于"
+  name = "条款和条件"
+  url = "terms-conditions/"
+
+  [[main]]
+  parent = "关于"
+  name = "隐私政策"
+  url = "privacy-policy/"
+
+  [[main]]
+  parent = "关于"
+  name = "印记"
+  url = "impressum/"
+
+# 底部菜单
+[[footer]]
+name = "联系"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "条款和条件"
+url = "terms-conditions/"
+weight = 2
+
+[[footer]]
+name = "隐私政策"
+url = "privacy-policy/"
+weight = 3

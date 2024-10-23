@@ -1,0 +1,67 @@
+############# French navigation ##############
+# main menu
+[[main]]
+name = "Home"
+url = ""
+weight = 1
+
+[[main]]
+name = "How it works"
+url = "how-it-works/"
+weight = 2
+
+[[main]]
+name = "Prices"
+url = "pricing/"
+weight = 3
+
+[[main]]
+name = "Contact"
+url = "contact/"
+weight = 4
+
+[[main]]
+name = "About"
+weight = 5
+hasChildren = true
+
+  [[main]]
+  parent = "About"
+  name = "Tutorials"
+  url = "/blog"
+
+  [[main]]
+  parent = "About"
+  name = "My subscription"
+  url = "https://billing.stripe.com/p/login/test_bIY6pJesg2dC9iMdQQ"
+
+  [[main]]
+  parent = "About"
+  name = "terms & conditions"
+  url = "terms-conditions/"
+
+  [[main]]
+  parent = "About"
+  name = "privacy policy"
+  url = "privacy-policy/"
+
+  [[main]]
+  parent = "About"
+  name = "Imprint"
+  url = "impressum/"
+
+# Footer menu
+[[footer]]
+name = "Contact"
+url = "contact/"
+weight = 1
+
+[[footer]]
+name = "T&C"
+url = "terms-conditions/"
+weight = 2
+
+[[footer]]
+name = "Privacy Policy"
+url = "privacy-policy/"
+weight = 3

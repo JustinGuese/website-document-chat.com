@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>KI on document-chat.com - Chatte mit deinen Dokumenten und Mails!</title>
+    <link>http://localhost:1313/categories/ki/</link>
+    <description>Recent content in KI on document-chat.com - Chatte mit deinen Dokumenten und Mails!</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 09 Apr 2020 07:40:24 +0600</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/ki/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tutorial: Selbstgehostete KI mit Datensicherheit mit Ollama und Chatbox</title>
+      <link>http://localhost:1313/blog/tutorial-selbstgehostete-ki-mit-datensicherheit/</link>
+      <pubDate>Thu, 09 Apr 2020 07:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/blog/tutorial-selbstgehostete-ki-mit-datensicherheit/</guid>
+      <description>&lt;h2 id=&#34;das-problem-75-der-unternehmen-verbieten-die-nutzung-von-chatgpt&#34;&gt;Das Problem: 75% der Unternehmen verbieten die Nutzung von ChatGPT&lt;/h2&gt;&#xA;&lt;p&gt;Trotz der anfänglichen Begeisterung für generative KI-Tools wie ChatGPT ziehen Unternehmen aufgrund wachsender Datenschutz- und Cybersicherheitsbedenken in Erwägung, deren Verwendung einzuschränken. Die Sorge besteht vor allem darin, dass diese KI-Tools Nutzerdaten speichern und aus ihnen lernen, was potenziell zu unbeabsichtigten Datenlecks führen könnte. Obwohl OpenAI, der Entwickler von ChatGPT, eine Opt-out-Option für das Training mit Nutzerdaten bietet, bleibt die Frage, wie die Daten innerhalb des Systems gehandhabt werden, unklar. Zudem fehlen klare gesetzliche Regelungen zur Verantwortung bei durch KI verursachten Datenverletzungen. Unternehmen sind daher zunehmend vorsichtig und warten ab, wie sich die Technologie und ihre Regulierung weiterentwickeln.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

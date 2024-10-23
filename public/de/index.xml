@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>document-chat.com - Chatte mit deinen Dokumenten und Mails!</title>
+    <link>http://localhost:1313/de/</link>
+    <description>Recent content on document-chat.com - Chatte mit deinen Dokumenten und Mails!</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-de</language>
+    <lastBuildDate>Sun, 12 Jul 2020 17:02:17 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Datenschutz</title>
+      <link>http://localhost:1313/de/privacy-policy/</link>
+      <pubDate>Sun, 12 Jul 2020 17:02:17 +0200</pubDate>
+      <guid>http://localhost:1313/de/privacy-policy/</guid>
+      <description>Datenschutzerklärung Wir freuen uns sehr, dass Sie Interesse an unserem Unternehmen gezeigt haben.</description>
+    </item>
+    <item>
+      <title>Anleitung: Wie kann ich ChatGPT mit Dokumenten nutzen?</title>
+      <link>http://localhost:1313/de/blog/wie-kann-ich-chatgpt-mit-dokumenten-nutzen/</link>
+      <pubDate>Thu, 09 Apr 2020 09:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/de/blog/wie-kann-ich-chatgpt-mit-dokumenten-nutzen/</guid>
+      <description>Einleitung Die fortschrittlichen Sprachmodelle wie ChatGPT haben zweifellos beeindruckende Fähigkeiten, wenn es darum geht, menschenähnlichen Text zu generieren und auf Fragen zu antworten.</description>
+    </item>
+    <item>
+      <title>Was sind die Vorteile von selbst gehosteten KI Modellen?</title>
+      <link>http://localhost:1313/de/blog/vorteile-von-selbst-gehosteten-ki-modellen/</link>
+      <pubDate>Thu, 09 Apr 2020 08:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/de/blog/vorteile-von-selbst-gehosteten-ki-modellen/</guid>
+      <description>Einleitung In der Welt der künstlichen Intelligenz (KI) haben sich große Sprachmodelle wie GPT (Generative Pre-trained Transformer) als leistungsstarke Werkzeuge für eine Vielzahl von Anwendungen etabliert.</description>
+    </item>
+    <item>
+      <title>Tutorial: Selbstgehostete KI mit Datensicherheit mit Ollama und Chatbox</title>
+      <link>http://localhost:1313/de/blog/tutorial-selbstgehostete-ki-mit-datensicherheit/</link>
+      <pubDate>Thu, 09 Apr 2020 07:40:24 +0600</pubDate>
+      <guid>http://localhost:1313/de/blog/tutorial-selbstgehostete-ki-mit-datensicherheit/</guid>
+      <description>Das Problem: 75% der Firmen verbieten die Nutzung von ChatGPT Trotz der anfänglichen Begeisterung für Generative KI-Tools wie ChatGPT, ziehen Unternehmen aufgrund wachsender Datenschutz- und Cybersicherheitsbedenken in Erwägung, deren Verwendung zu beschränken.</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/de/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/impressum/</guid>
+      <description>Für den Inhalt dieser Website verantwortlich:&#xA;DataFortress.cloud UG Georgenstraße 13 86152 Augsburg Germany DE345185498</description>
+    </item>
+    <item>
+      <title>Free PDF: ChatGPT und Dokumente</title>
+      <link>http://localhost:1313/de/freebie/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/freebie/</guid>
+      <description>Download unseres Guides: Download </description>
+    </item>
+    <item>
+      <title>How It Works</title>
+      <link>http://localhost:1313/de/how-it-works/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/how-it-works/</guid>
+      <description>Option 1: Onboarding Buchen Sie ein gratis 30-minütiges Onboarding und erhalten Sie das Plus Paket einen Monat gratis!</description>
+    </item>
+    <item>
+      <title>Kontaktieren Sie uns</title>
+      <link>http://localhost:1313/de/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/contact/</guid>
+      <description>Kontaktieren Sie uns Sie wissen nich nicht wo Sie anfangen sollen?</description>
+    </item>
+    <item>
+      <title>Preise</title>
+      <link>http://localhost:1313/de/pricing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/pricing/</guid>
+      <description>Der perfekte Preis für jeden Starten Sie ohne Kreditkarte und ohne Free-Trial Periode direkt in unserem &amp;ldquo;forever free&amp;rdquo; Tarif.</description>
+    </item>
+    <item>
+      <title>Subscribe success</title>
+      <link>http://localhost:1313/de/subscribe-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/subscribe-success/</guid>
+      <description>Thank you for your subscription! Continue to app.document-chat.com to start using the service.</description>
+    </item>
+    <item>
+      <title>Terms &amp; Conditions</title>
+      <link>http://localhost:1313/de/terms-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/de/terms-conditions/</guid>
+      <description>Bedingungen und Konditionen von document-chat.com&#xA;Diese Bedingungen regeln&#xA;die Nutzung dieser Anwendung, und, jede andere damit verbundene Vereinbarung oder Rechtsbeziehung mit dem Eigentümer in rechtlich verbindlicher Weise.</description>
+    </item>
+  </channel>
+</rss>

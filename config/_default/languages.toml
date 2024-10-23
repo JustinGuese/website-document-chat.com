@@ -1,0 +1,22 @@
+################################### English language #####################################
+[en]
+languageName = "En"
+languageCode = "en-us"
+contentDir = "content/english"
+weight = 1
+[en.params]
+footer_content = "Docu-chat.de - your all-knowing assistant for company knowledge. Maximize your efficiency, minimize your search time. Because CEOs should focus on making decisions, not searching for information."
+# copyright
+copyright = "Copyright by DataFortress.cloud"
+
+################################### German language #####################################
+[zh-cn]
+languageName = "CN"
+languageCode = "zh-CN"
+contentDir = "content/chinese"
+weight = 2
+[de.params]
+footer_content = "Docu-chat.de - 您的全知助手，提供公司知识。最大化您的效率，最小化您的搜索时间。因为CEO应该专注于决策，而不是寻找信息。"
+# copyright
+copyright = "Copyright by DataFortress.cloud"
+
