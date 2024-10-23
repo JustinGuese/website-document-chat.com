@@ -108,10 +108,10 @@ username = ""  # your username
 # Footer call to action
 [footer_call_to_action]
 enable = true
-title = "Steigern Sie Ihre Effizienz und die Ihrer Mitarbeiter um **34+%**"
+title = "Increase your efficiency and that of your employees by **34+%**"
 [footer_cta_button]
 enable = true
-label = "Gratis Demo anfordern"
+label = "Request a Free Demo"
 link = "how-it-works"
 
 # site verifications
