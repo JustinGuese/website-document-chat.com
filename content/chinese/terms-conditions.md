@@ -18,7 +18,7 @@ title: 服务条款
 
 本应用由以下组织提供：
 
-DataFortress.cloud UG
+DataFortress.cloud GmbH
 Georgenstraße 13
 86152 奥格斯堡
 德国

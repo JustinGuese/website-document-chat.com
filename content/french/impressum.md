@@ -1,6 +1,6 @@
 Responsable du contenu de ce site web :
 
-DataFortress.cloud UG
+DataFortress.cloud GmbH
 Georgenstraße 13
 86152 Augsbourg
 Allemagne

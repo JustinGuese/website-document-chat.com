@@ -20,7 +20,7 @@ Los usuarios deben leer este documento cuidadosamente.
 
 Esta aplicación es proporcionada por:
 
-DataFortress.cloud UG  
+DataFortress.cloud GmbH  
 Georgenstraße 13  
 86152 Augsburg  
 Alemania  

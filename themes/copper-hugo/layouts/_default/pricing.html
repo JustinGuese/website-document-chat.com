@@ -53,7 +53,7 @@
               {{ end }}
             </ul>
             {{ if .featured }}
-            <a href="{{ .button_link | absLangURL }}" class="btn btn-primary has-icon d-block">{{ .button_label }}
+            <a id="button_freetrial" href="{{ .button_link | absLangURL }}" class="btn btn-primary has-icon d-block">{{ .button_label }}
               <span class="icon">
                 <svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
                   <path
@@ -63,7 +63,7 @@
               </span>
             </a>
             {{ else }}
-            <a href="{{ .button_link | absLangURL }}" class="btn btn-outline-primary d-block">{{ .button_label }}</a>
+            <a id="button_freetrial" href="{{ .button_link | absLangURL }}" class="btn btn-outline-primary d-block">{{ .button_label }}</a>
             {{ end }}
           </div>
         </div>

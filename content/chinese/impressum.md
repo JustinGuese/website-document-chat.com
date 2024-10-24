@@ -1,7 +1,7 @@
 
 网站内容负责人：
 
-DataFortress.cloud UG
+DataFortress.cloud GmbH
 德国奥格斯堡 Georgenstraße 13
 86152
 DE345185498
