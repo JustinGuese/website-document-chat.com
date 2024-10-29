@@ -20,7 +20,7 @@ pricing_card:
   - 小型AI模型
   yearly_price: '0'
 - button_label: 订阅
-  button_link: https://app.document-chat.com/profile
+  button_link: https://app.doku-chat.de/profile
   content: '下一阶段每月费用为 19.99 欧元起。无限聊天，更强大的 AI 模型，以及更多功能。
 
     '
@@ -37,7 +37,7 @@ pricing_card:
   - 更好的 AI 模型
   yearly_price: '199'
 - button_label: 订阅
-  button_link: https://app.document-chat.com/profile
+  button_link: https://app.doku-chat.de/profile
   content: 包含电子邮件自动同步、团队功能、共享和最佳 AI 模型的全部功能。
   currency: €
   featured: false

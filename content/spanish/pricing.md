@@ -23,7 +23,7 @@ pricing_card:
   - Modelo de IA pequeño
   yearly_price: '0'
 - button_label: Suscríbete
-  button_link: https://app.document-chat.com/profile
+  button_link: https://app.doku-chat.de/profile
   content: 'El siguiente paso comienza en 19,99 € al mes. Chats ilimitados, un modelo
     de IA mejorado y más.
 
@@ -39,7 +39,7 @@ pricing_card:
   - Mejor modelo de IA
   yearly_price: '199'
 - button_label: Suscríbete
-  button_link: https://app.document-chat.com/profile
+  button_link: https://app.doku-chat.de/profile
   content: 'La funcionalidad completa, incluyendo la sincronización automática de
     correo electrónico, las funciones de equipo, el intercambio y el mejor modelo
     de IA.

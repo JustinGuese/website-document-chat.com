@@ -71,7 +71,7 @@ banner:
   title: ¡Chatea con tus **Documentos**!
   video:
     enable: true
-    video_embed_link: /videos/dokuchat-main-ad
+    video_embed_link: /videos/dokuchat-main-ad.webm
 clients_logo_slider:
   enable: false
   logos:

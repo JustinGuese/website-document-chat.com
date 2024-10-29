@@ -32,7 +32,7 @@ pricing_card:
     yearly_price: "199"
     featured: true
     button_label: "Subscribe"
-    button_link: "https://app.document-chat.com/profile"
+    button_link: "https://app.doku-chat.de/profile"
     services:
       - "Everything in 'Forever Free', plus:"
       - "Unlimited projects"
@@ -47,7 +47,7 @@ pricing_card:
     yearly_price: "990"
     featured: false
     button_label: "Subscribe"
-    button_link: "https://app.document-chat.com/profile"
+    button_link: "https://app.doku-chat.de/profile"
     services:
       - "Everything in 'Plus', plus:"
       - "Auto-Sync integrations (Email, SharePoint, GDrive, ...)"

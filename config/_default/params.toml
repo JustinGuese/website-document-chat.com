@@ -46,7 +46,7 @@ link = "/how-it-works"
 # Navigation button
 [navigation_button_linked]
 enable = true
-link = "https://app.document-chat.com/"
+link = "https://app.doku-chat.de/"
 label = "Log In"
 
 # Subscription

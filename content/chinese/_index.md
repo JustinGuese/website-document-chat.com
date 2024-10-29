@@ -7,7 +7,7 @@ banner:
   image: "images/screenshots/banner-shot.png"
   video:
     enable: true
-    video_embed_link: "/videos/dokuchat-main-ad"
+    video_embed_link: "/videos/dokuchat-main-ad.webm.webm"
   form:
     enable: true
     form_action: "https://formspree.io/f/xbjnpgko"
