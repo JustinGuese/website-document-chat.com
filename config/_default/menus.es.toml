@@ -11,18 +11,23 @@ url = "how-it-works/"
 weight = 2
 
 [[main]]
+name = "Para Empresas"
+url = "companies/"
+weight = 3
+
+[[main]]
 name = "Precios"
 url = "pricing/"
-weight = 3
+weight = 4
 
 [[main]]
 name = "Contacto"
 url = "contact/"
-weight = 4
+weight = 5
 
 [[main]]
 name = "Acerca de"
-weight = 5
+weight = 6
 hasChildren = true
 
   [[main]]

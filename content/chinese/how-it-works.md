@@ -37,7 +37,7 @@ title: 如何运作
             <h2 class="mb-2">选项 1：入门</h2>
             <p>预订免费 30 分钟入门课程，并免费获得<strong>Plus 套餐一个月！</strong></p>
             <p>非约束性，一对一与开发者沟通。</p>
-            <a href="https://calendly.com/justin-guese/doku-chat-onboarding">
+            <a href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/">
               <button class="btn btn-primary mt-4">立即预订</button>
             </a>
           </div>

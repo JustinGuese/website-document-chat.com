@@ -36,7 +36,7 @@ title: Cómo Funciona
             <h2 class="mb-2">Opción 1: Integración</h2>
             <p>Reserva una integración de 30 minutos gratuita y obtén el paquete <strong>Plus ¡gratis durante un mes!</strong></p>
             <p>Sin compromiso, 1:1 con el desarrollador.</p>
-            <a href="https://calendly.com/justin-guese/doku-chat-onboarding">
+            <a href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/">
               <button class="btn btn-primary mt-4">Reservar Ahora</button>
             </a>
           </div>
