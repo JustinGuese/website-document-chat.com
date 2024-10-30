@@ -24,4 +24,4 @@ title: Contactez-nous
 
 Vous ne savez pas par où commencer ? Nous sommes ravis de vous aider avec une évaluation initiale sans obligation.
 
-<a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Consultation gratuite de 15 minutes</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Consultation gratuite de 15 minutes</a>

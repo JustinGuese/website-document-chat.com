@@ -8,7 +8,7 @@ draft: false
 
 With Doku-Chat.de, your entire company knowledge becomes instantly available and efficiently usable – exactly where your team needs it: in Microsoft Teams, Slack, WhatsApp, and other tools. Our solution takes chatbot functionality to a new level, allowing you and your team to interact directly with company-specific information without having to sift through endless Confluence pages or scattered documents.
 
-<a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Free 15-minute Consultation</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Free 15-minute Consultation</a>
 
 ## Use Cases
 
@@ -60,4 +60,4 @@ Your data is secured on German servers, ensuring no access by non-European hosti
 
 Ready to use your company knowledge interactively and efficiently?
 
-<a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Free 15-minute Consultation</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Free 15-minute Consultation</a>

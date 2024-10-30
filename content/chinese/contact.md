@@ -22,4 +22,4 @@ title: 联系我们
 ---
 ## 联系我们不知从何入手？我们很乐意为您提供初步评估，无需任何义务。
 
-<a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">免费15分钟咨询</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">免费15分钟咨询</a>

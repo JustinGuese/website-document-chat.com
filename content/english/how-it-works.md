@@ -36,7 +36,7 @@ draft: false
             <h2 class="mb-2">Option 1: Onboarding</h2>
             <p>Book a free 30-minute onboarding and get the <strong>Plus package free for one month!</strong></p>
             <p>Non-binding, 1:1 with the developer.</p>
-            <a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Book now</a>
+            <a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Book now</a>
           </div>
         </div>
       </div>

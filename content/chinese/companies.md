@@ -8,7 +8,7 @@ draft: false
 
 通过Doku-Chat.de，您的整个公司知识将立即可用且高效利用 – 正在您的团队需要的地方：在Microsoft Teams、Slack、WhatsApp和其他工具中。我们的解决方案将聊天机器人功能提升到一个新的水平，让您和您的团队可以直接与公司特定的信息互动，而无需翻阅无尽的Confluence页面或分散的文档。
 
-<a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">免费15分钟咨询</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">免费15分钟咨询</a>
 
 ## 使用案例
 
@@ -60,5 +60,5 @@ Confluence和其他知识平台通常包含大量难以找到的信息。Doku-Ch
 
 准备好互动且高效地利用您的公司知识了吗？
 
-<a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">免费15分钟咨询</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">免费15分钟咨询</a>
 

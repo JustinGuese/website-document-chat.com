@@ -29,4 +29,4 @@ services:
 
 Not sure where to start? We're happy to assist you with an initial assessment without obligation.
 
-<a id="book_metting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Free 15-minute Consultation</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Free 15-minute Consultation</a>
