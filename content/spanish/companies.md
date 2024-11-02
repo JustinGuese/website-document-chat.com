@@ -6,6 +6,8 @@ draft: false
 
 # Haz que el Conocimiento de tu Empresa sea Accesible – Directamente en Teams, Slack y Más
 
+{{< youtube DyKzi8NznQ0 >}}
+
 Con Doku-Chat.de, todo el conocimiento de tu empresa se vuelve instantáneamente disponible y eficientemente utilizable – exactamente donde tu equipo lo necesita: en Microsoft Teams, Slack, WhatsApp y otras herramientas. Nuestra solución lleva la funcionalidad de chatbot a un nuevo nivel, permitiendo que tú y tu equipo interactúen directamente con información específica de la empresa sin tener que buscar entre interminables páginas de Confluence o documentos dispersos.
 
 <a id="book_meeting" class="btn btn-primary text-white" href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/" target="_blank">Consulta gratuita de 15 minutos</a>
