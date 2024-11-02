@@ -38,7 +38,7 @@ hasChildren = true
   [[main]]
   parent = "À propos"
   name = "Mon abonnement"
-  url = "https://billing.stripe.com/p/login/test_bIY6pJesg2dC9iMdQQ"
+  url = "https://billing.stripe.com/p/login/bIY02VaeBcgXfrGdQQ"
 
   [[main]]
   parent = "À propos"
