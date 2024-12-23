@@ -31,7 +31,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.135.0
+      HUGO_VERSION: 0.135.0 # 0.124.1
     steps:
       - name: Install Hugo CLI
         run: |
@@ -46,8 +46,10 @@ jobs:
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v5
-      - name: install other useless shit
-        run: npm install postcss-cli @fullhuman/postcss-purgecss
+      - name: Install other dependencies
+        run: |
+          npm install --prefix themes/copper-hugo
+          npm install postcss-cli@^10.1.0 @fullhuman/postcss-purgecss@^5.0.0 postcss@^8.4.20
       - name: Install Node.js dependencies
         run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
       - name: Build with Hugo
