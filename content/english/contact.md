@@ -9,7 +9,7 @@ contact_info:
   enable: true
   title: 'Feel free to drop us a message'
   address_list:
-    - "DE: <a id='phone_de'  href='tel:+4917616813692'>+49 160 1136770</a>"
+    - "DE: <a id='phone_de'  href='tel:+491601136770'>+49 160 1136770</a>"
     - "US:  <a id='phone_us' href='tel:+16503820775'>+1 650 382 0775</a>"
     - "E-Mail: <a id='mail' href='mailto:info@datafortress.cloud'>info@dat<!--...-->afortress.cloud</a>"
     - 'Address: Augsburg, Germany'
