@@ -3,8 +3,8 @@ description: this is meta description
 draft: false
 layout: how-it-works
 title: Cómo Funciona
-
 ---
+
 <section class="section-padding">
   <div class="container">
     <h2 class="mb-2">Video Principal</h2>
@@ -36,7 +36,7 @@ title: Cómo Funciona
             <h2 class="mb-2">Opción 1: Integración</h2>
             <p>Reserva una integración de 30 minutos gratuita y obtén el paquete <strong>Plus ¡gratis durante un mes!</strong></p>
             <p>Sin compromiso, 1:1 con el desarrollador.</p>
-            <a href="https://outlook.office365.com/owa/calendar/BookameetingwithJustin@datafortress.cloud/bookings/">
+            <a href="https://calendly.com/justin-guese/15min">
               <button class="btn btn-primary mt-4">Reservar Ahora</button>
             </a>
           </div>
