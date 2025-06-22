@@ -17,7 +17,7 @@ contact_info:
 ############ Services ############
 services:
   enable: true
-  title: 'docu-chat.de Can'
+  title: 'document-chat.com Can'
   service_list:
     - 'Search emails by context'
     - 'Align marketing with corporate knowledge'

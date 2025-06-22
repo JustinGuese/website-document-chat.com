@@ -5,7 +5,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 [en.params]
-footer_content = "Docu-chat.de - your all-knowing assistant for company knowledge. Maximize your efficiency, minimize your search time. Because CEOs should focus on making decisions, not searching for information."
+footer_content = "document-chat.com - your all-knowing assistant for company knowledge. Maximize your efficiency, minimize your search time. Because CEOs should focus on making decisions, not searching for information."
 # copyright
 copyright = "Copyright by DataFortress.cloud"
 
@@ -16,7 +16,7 @@ languageCode = "zh-CN"
 contentDir = "content/chinese"
 weight = 2
 [zh-cn.params]
-footer_content = "Docu-chat.de - 您的全知助手，提供公司知识。最大化您的效率，最小化您的搜索时间。因为CEO应该专注于决策，而不是寻找信息。"
+footer_content = "document-chat.com - 您的全知助手，提供公司知识。最大化您的效率，最小化您的搜索时间。因为CEO应该专注于决策，而不是寻找信息。"
 # copyright
 copyright = "Copyright by DataFortress.cloud"
 
@@ -27,7 +27,7 @@ languageCode = "es-ES"
 contentDir = "content/spanish"
 weight = 2
 [es.params]
-footer_content = "Docu-chat.de - tu asistente omnisciente para el conocimiento de la empresa. Maximiza tu eficiencia, minimiza tu tiempo de búsqueda. Porque los CEOs deben centrarse en tomar decisiones, no en buscar información."
+footer_content = "document-chat.com - tu asistente omnisciente para el conocimiento de la empresa. Maximiza tu eficiencia, minimiza tu tiempo de búsqueda. Porque los CEOs deben centrarse en tomar decisiones, no en buscar información."
 # copyright
 copyright = "Copyright by DataFortress.cloud"
 
@@ -38,6 +38,6 @@ languageCode = "fr-FR"
 contentDir = "content/french"
 weight = 2
 [fr.params]
-footer_content = "Docu-chat.de - votre assistant omniscient pour la connaissance de l'entreprise. Maximisez votre efficacité, minimisez votre temps de recherche. Parce que les PDG doivent se concentrer sur la prise de décisions, pas sur la recherche d'informations."
+footer_content = "document-chat.com - votre assistant omniscient pour la connaissance de l'entreprise. Maximisez votre efficacité, minimisez votre temps de recherche. Parce que les PDG doivent se concentrer sur la prise de décisions, pas sur la recherche d'informations."
 # copyright
 copyright = "Copyright by DataFortress.cloud"

@@ -16,7 +16,7 @@ services:
     - 按上下文搜索电子邮件
     - 将营销与企业知识结合起来
     - 用作内部文档
-  title: 'docu-chat.de 服务'
+  title: 'document-chat.com 服务'
 title: 联系我们
 ---
 

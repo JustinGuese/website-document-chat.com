@@ -16,7 +16,7 @@ services:
     - Rechercher des emails par contexte
     - Allier le marketing aux connaissances de l'entreprise
     - 'À utiliser comme documentation interne.'
-  title: 'docu-chat.de Peut'
+  title: 'document-chat.com Peut'
 title: Contactez-nous
 ---
 

@@ -16,7 +16,7 @@ services:
     - Buscar correos por contexto
     - Alinear el marketing con el conocimiento corporativo
     - Usar como documentación interna
-  title: 'docu-chat.de Puede'
+  title: 'document-chat.com Puede'
 title: Contáctanos
 ---
 
