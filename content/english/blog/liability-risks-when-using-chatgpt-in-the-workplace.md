@@ -2,19 +2,20 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- ChatGPT
-- KI
-- Documents
+  - ChatGPT
+  - KI
+  - Documents
 date: '2020-09-09T21:48:43'
-description: 'Discover the liability risks of using ChatGPT in the workplace. Learn
+description:
+  'Discover the liability risks of using ChatGPT in the workplace. Learn
   how to avoid legal pitfalls and act legally securely.
 
   '
 draft: false
 image: images/blogs/chatbox.jpeg
 title: Liability Risks When Using ChatGPT in the Workplace
-
 ---
+
 # Introduction to Liability Risks
 
 ### Why Liability Risks in the Workplace Matter
@@ -35,9 +36,9 @@ Using ChatGPT can unlock significant potential, but it also brings risks, especi
 
 ## GDPR-Compliant AI Use
 
-### Advantages of a German Solution Like Doku-chat.de
+### Advantages of a German Solution Like document-chat.com
 
-In a world where data protection is paramount, it's reassuring to know that solutions exist that comply with strict German regulations. Doku-chat.de not only offers GDPR-compliant use but also ensures that all data remains in Germany. This is practical – and also somewhat like a hug for your sensitive information. The solution also allows for individual adjustments, such as integration into existing communication channels, increasing efficiency while ensuring legal certainty.  Get cozy with the data protection authorities!
+In a world where data protection is paramount, it's reassuring to know that solutions exist that comply with strict German regulations. document-chat.com not only offers GDPR-compliant use but also ensures that all data remains in Germany. This is practical – and also somewhat like a hug for your sensitive information. The solution also allows for individual adjustments, such as integration into existing communication channels, increasing efficiency while ensuring legal certainty. Get cozy with the data protection authorities!
 
 ## Liability of Companies and Users
 
@@ -55,10 +56,10 @@ To avoid landing in the danger zone of liability risks, every user should follow
 
 ### Adjustments and Integrations for Enhanced Security
 
-Each company is like a fingerprint: unique and full of attributes that set it apart. Working with a standard tool is often not the best solution. Doku-chat.de offers the possibility of making individual adjustments so that the program functions as an extension of your existing infrastructure. Through integrations like Teams or Confluence, you can minimize security gaps and ensure that the entire team communicates on the same wavelength. More security, more customization – and all with full control thanks to a well-designed technology.
+Each company is like a fingerprint: unique and full of attributes that set it apart. Working with a standard tool is often not the best solution. document-chat.com offers the possibility of making individual adjustments so that the program functions as an extension of your existing infrastructure. Through integrations like Teams or Confluence, you can minimize security gaps and ensure that the entire team communicates on the same wavelength. More security, more customization – and all with full control thanks to a well-designed technology.
 
 ## Conclusion
 
 ### Secure Use of ChatGPT in a Business Context
 
-In summary, the use of AI tools like ChatGPT holds enormous potential but also entails responsibility. Companies and employees must be prepared to minimize risks and act in a data protection-compliant manner. With a reliable solution like Doku-chat.de, which is not only GDPR-compliant but also allows individual adjustments, companies are ideally equipped for the future of digital exchange. Ultimately, secure technology use is not only smart – it is essential for success in today's business world.
+In summary, the use of AI tools like ChatGPT holds enormous potential but also entails responsibility. Companies and employees must be prepared to minimize risks and act in a data protection-compliant manner. With a reliable solution like document-chat.com, which is not only GDPR-compliant but also allows individual adjustments, companies are ideally equipped for the future of digital exchange. Ultimately, secure technology use is not only smart – it is essential for success in today's business world.

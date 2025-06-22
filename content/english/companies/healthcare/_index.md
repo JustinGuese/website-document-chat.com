@@ -3,7 +3,7 @@
 banner:
   enable: true
   title: 'Find **Medical Processes** instantly!'
-  content: '**Thousands of pages** of process documentation? **Doku-Chat.de** knows your manuals and standards (PDF) and provides you and your nurses/employees with the **right answers with references** instantly!'
+  content: '**Thousands of pages** of process documentation? **document-chat.com** knows your manuals and standards (PDF) and provides you and your nurses/employees with the **right answers with references** instantly!'
   image: 'images/screenshots/banner-shot.png'
   video:
     enable: true
@@ -90,7 +90,7 @@ homepage_tab:
 homepage_howtouse:
   enable: true
   title: '**Use Cases**'
-  content: 'Doku-Chat.de can be used in many areas. Here are some examples of how you can use Doku-Chat.de for yourself and in your company.'
+  content: 'document-chat.com can be used in many areas. Here are some examples of how you can use document-chat.com for yourself and in your company.'
   tablist:
     # tab item
     - name: 'Email Search'
@@ -211,10 +211,10 @@ testimonial:
     - name: 'Max Linnemann'
       image: 'images/users/01.jpg'
       designation: 'Founder'
-      content: 'I use Doku-Chat.de to search my emails. The Outlook search never really worked for me, but Doku-Chat.de always finds what I am looking for! Top!'
+      content: 'I use document-chat.com to search my emails. The Outlook search never really worked for me, but document-chat.com always finds what I am looking for! Top!'
 
     - name: 'Mark Hermann'
       image: 'images/users/02.jpg'
       designation: 'CEO'
-      content: 'We use Doku-Chat.de as an internal knowledge database. Our Confluence pages are relatively well maintained, but the search is just not that good, or information gets lost. The Doku-Chat.de chatbot is integrated into our intranet and can answer employees questions much faster.'
+      content: 'We use document-chat.com as an internal knowledge database. Our Confluence pages are relatively well maintained, but the search is just not that good, or information gets lost. The document-chat.com chatbot is integrated into our intranet and can answer employees questions much faster.'
 ---

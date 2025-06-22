@@ -2,17 +2,17 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- Chatbot
-- AI
-- DIY
-- Tutorial
+  - Chatbot
+  - AI
+  - DIY
+  - Tutorial
 date: '2020-04-09T07:40:24+06:00'
 description: this is meta description
 draft: false
 image: images/blogs/chatbox.jpeg
 title: 'Tutorial: IA Autohospedada con Seguridad de Datos usando Ollama y Chatbox'
-
 ---
+
 # El Problema: El 75% de las Empresas Prohíbe ChatGPT
 
 A pesar del entusiasmo inicial por las herramientas de IA generativa como ChatGPT, las empresas están restringiendo su uso debido a las crecientes preocupaciones sobre la privacidad de los datos y la ciberseguridad. La principal preocupación es que estas herramientas de IA almacenan y aprenden de los datos del usuario, lo que potencialmente puede dar lugar a violaciones de datos no deseadas. Aunque OpenAI, el desarrollador de ChatGPT, ofrece una opción para optar por no participar en el entrenamiento con datos de usuario, la gestión de los datos dentro del sistema sigue sin estar clara. Además, faltan regulaciones legales claras sobre la responsabilidad de las violaciones de datos causadas por la IA. En consecuencia, las empresas se muestran reticentes y esperan que la tecnología y su regulación evolucionen.
@@ -25,7 +25,7 @@ Una solución a las preocupaciones sobre la seguridad y la privacidad de los dat
 
 Utilizaremos **Ollama** y **Chatbox**. Ollama es una herramienta optimizada para ejecutar modelos lingüísticos grandes (LLMs) de código abierto como Mistral y Llama 2 localmente. Chatbox es una aplicación que visualiza las llamadas a la API de varios modelos.
 
-¿Te parece demasiado complejo? ¿O sería mejor una API alojada? Visita [doku-chat.de](/de/) o [programa una llamada introductoria gratuita con nosotros](https://datafortress.cloud/de/contact/).
+¿Te parece demasiado complejo? ¿O sería mejor una API alojada? Visita [document-chat.com](/de/) o [programa una llamada introductoria gratuita con nosotros](https://datafortress.cloud/de/contact/).
 
 ### Paso 1: Descarga e Instalación de Ollama
 
@@ -33,6 +33,7 @@ Necesitarás un servidor o computadora con una GPU. Desafortunadamente, debe ser
 Encuentra los requisitos exactos en esta publicación: [¿Cuáles son las ventajas de los modelos de IA autohospedados?](/de/blog/vorteile-von-selbst-gehosteten-ki-modellen/)
 
 > Versión TLDR:
+>
 > 1. https://ollama.com/download
 > 2. `ollama run llama2`
 > 3. ollama es accesible en localhost:11434
@@ -41,7 +42,7 @@ Encuentra los requisitos exactos en esta publicación: [¿Cuáles son las ventaj
 
 Ollama es una herramienta optimizada para ejecutar modelos lingüísticos grandes (LLMs) de código abierto como Mistral y Llama 2 localmente. Ollama agrupa los pesos del modelo, las configuraciones y los conjuntos de datos en una sola entidad administrada por un archivo de modelo.
 
-¿Te parece demasiado complejo? ¿O sería mejor una API alojada? Visita [doku-chat.de](/de/) o [programa una llamada introductoria gratuita con nosotros](https://datafortress.cloud/de/contact/).
+¿Te parece demasiado complejo? ¿O sería mejor una API alojada? Visita [document-chat.com](/de/) o [programa una llamada introductoria gratuita con nosotros](https://datafortress.cloud/de/contact/).
 
 Ollama admite varios LLMs, incluyendo LLaMA-2, LLaMA sin censura, CodeLLaMA, Falcon, Mistral, Vicuna, WizardCoder y Wizard sin censura.
 
@@ -55,7 +56,6 @@ Los cinco modelos más populares en Ollama son:
 - dolphin-mixtral: Un modelo sin censura y afinado basado en Mixtral MoE, particularmente adecuado para tareas de codificación.
 - mistral-openorca: Mistral 7b, afinado con el conjunto de datos OpenOrca.
 
-
 Ollama también admite modelos personalizados. Puedes crear un modelo usando un archivo de modelo, especificando capas, escribiendo pesos y recibiendo un mensaje de éxito.
 
 Otros modelos disponibles incluyen:
@@ -67,14 +67,12 @@ Otros modelos disponibles incluyen:
 - DeepSeek Coder: Entrenado en un 87% de código y un 13% de lenguaje natural en inglés.
 - Meditron: Un modelo médico de código abierto adaptado de Llama 2 al dominio médico.
 
-
 #### Instalación y configuración de Ollama
 
 - Descarga Ollama desde el sitio web oficial.
 - La instalación es sencilla, similar a otros softwares. Para macOS y Linux, usa `curl https://ollama.ai/install.sh | sh`.
 - Ollama crea una API para interactuar con el modelo localmente.
 - Ollama es compatible con macOS y Linux; la compatibilidad con Windows llegará pronto.
-
 
 Ejecutando Modelos con Ollama
 
@@ -104,7 +102,6 @@ Chatbox es una aplicación que visualiza las llamadas a la API de varios modelos
 
 Visita https://chatboxai.app e instala la aplicación en tu computadora.
 
-
 ### Conexión de Chatbox y Ollama
 
 Nuestro modelo de IA local es accesible en localhost:11434. Chatbox permite una interacción sencilla con Ollama. Haz clic en "Configuración" y selecciona Ollama como "Proveedor de Modelo de IA".
@@ -113,4 +110,4 @@ Nuestro modelo de IA local es accesible en localhost:11434. Chatbox permite una 
 
 Luego, selecciona el modelo deseado (por ejemplo, `llama2`) en el cuadro de diálogo de modelos.
 
-¿Te parece demasiado complejo? ¿O sería mejor una API alojada? Visita [doku-chat.de](/de/) o [programa una llamada introductoria gratuita con nosotros](https://datafortress.cloud/de/contact/).
+¿Te parece demasiado complejo? ¿O sería mejor una API alojada? Visita [document-chat.com](/de/) o [programa una llamada introductoria gratuita con nosotros](https://datafortress.cloud/de/contact/).

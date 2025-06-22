@@ -2,28 +2,28 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- Chatbot
-- AI
-- Tutorial
+  - Chatbot
+  - AI
+  - Tutorial
 date: '2020-04-09T09:40:24+06:00'
 description: this is meta description
 draft: false
 image: images/blogs/chatdocs.webp
 title: 'Instructions: How can I use ChatGPT with documents?'
-
 ---
+
 # Introduction
 
-Advanced language models like ChatGPT undoubtedly possess impressive capabilities in generating human-like text and answering questions. However, it's crucial to understand that these models rely on general knowledge and lack access to context-specific information.  Furthermore, they often operate on older knowledge bases, meaning they may not have access to the latest information.
+Advanced language models like ChatGPT undoubtedly possess impressive capabilities in generating human-like text and answering questions. However, it's crucial to understand that these models rely on general knowledge and lack access to context-specific information. Furthermore, they often operate on older knowledge bases, meaning they may not have access to the latest information.
 
 Fortunately, there's a solution to this problem: you can upload your own documents, thereby expanding ChatGPT's knowledge base. By providing specific information and expertise through documents, you can ensure ChatGPT has access to current and contextually relevant information.
 
 ## But What About Data Security and GDPR?
 
-But what about data security?  This question is paramount, especially when considering uploading your own documents and information into ChatGPT. It's important to note that companies like OpenAI and similar providers use every input fed into their models as training material. While this can contribute to improving AI capabilities, there's a risk of confidential information, including company secrets, being revealed.
+But what about data security? This question is paramount, especially when considering uploading your own documents and information into ChatGPT. It's important to note that companies like OpenAI and similar providers use every input fed into their models as training material. While this can contribute to improving AI capabilities, there's a risk of confidential information, including company secrets, being revealed.
 
 > Tip:
-To avoid your data being used by American AI providers like OpenAI, consider running a "self-hosted" AI model. This requires a server with an Nvidia GPU and a corresponding "torch" setup. For DIY solutions, the open-source project https://ollama.com is recommended.  Alternatively, a German AI provider, such as https://doku-chat.de or https://datafortress.cloud, is an option. Doku-Chat.de also offers project-based organization, useful sharing/team features, and more!
+> To avoid your data being used by American AI providers like OpenAI, consider running a "self-hosted" AI model. This requires a server with an Nvidia GPU and a corresponding "torch" setup. For DIY solutions, the open-source project https://ollama.com is recommended. Alternatively, a German AI provider, such as https://document-chat.com or https://datafortress.cloud, is an option. document-chat.com also offers project-based organization, useful sharing/team features, and more!
 
 Some knowledge workers report that ChatGPT significantly increases their productivity. However, companies like JP Morgan and Verizon have blocked ChatGPT due to the risks to confidential data. Our analysis indicates that 4.7% of employees have inserted confidential data into ChatGPT.
 
@@ -57,8 +57,7 @@ ChatGPT also offers advanced features like writing and executing Python code, pr
 
 It's essential to prioritize data security when uploading documents to ChatGPT. Remember that OpenAI and similar providers may use every input to their models as training data. Therefore, only upload non-confidential information or encrypted data to minimize the risk of data breaches.
 
-
 > Tip:
-To avoid your data being used by American AI providers like OpenAI, consider running a "self-hosted" AI model. This requires a server with an Nvidia GPU and a corresponding "torch" setup. For DIY solutions, the open-source project https://ollama.com is recommended.  Alternatively, a German AI provider, such as https://doku-chat.de or https://datafortress.cloud, is an option. Doku-Chat.de also offers project-based organization, useful sharing/team features, and more!
+> To avoid your data being used by American AI providers like OpenAI, consider running a "self-hosted" AI model. This requires a server with an Nvidia GPU and a corresponding "torch" setup. For DIY solutions, the open-source project https://ollama.com is recommended. Alternatively, a German AI provider, such as https://document-chat.com or https://datafortress.cloud, is an option. document-chat.com also offers project-based organization, useful sharing/team features, and more!
 
 Some knowledge workers report that ChatGPT significantly increases their productivity. However, companies like JP Morgan and Verizon have blocked ChatGPT due to the risks to confidential data. Our analysis indicates that 4.7% of employees have inserted confidential data into ChatGPT.

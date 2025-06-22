@@ -1,12 +1,12 @@
 ---
-title: '高效利用公司知识与Doku-Chat.de'
-description: '高效利用公司知识与Doku-Chat.de：在Teams、Slack等平台上即时访问公司知识。优化客户服务、销售和内部流程。'
+title: '高效利用公司知识与document-chat.com'
+description: '高效利用公司知识与document-chat.com：在Teams、Slack等平台上即时访问公司知识。优化客户服务、销售和内部流程。'
 draft: false
 ---
 
 # 让您的公司知识触手可及 – 直接在 Teams、Slack 等平台上
 
-通过 Doku-Chat.de，您的整个公司知识将立即可用且高效利用 – 正在您的团队需要的地方：在 Microsoft Teams、Slack、WhatsApp 和其他工具中。我们的解决方案将聊天机器人功能提升到一个新的水平，让您和您的团队可以直接与公司特定的信息互动，而无需翻阅无尽的 Confluence 页面或分散的文档。
+通过 document-chat.com，您的整个公司知识将立即可用且高效利用 – 正在您的团队需要的地方：在 Microsoft Teams、Slack、WhatsApp 和其他工具中。我们的解决方案将聊天机器人功能提升到一个新的水平，让您和您的团队可以直接与公司特定的信息互动，而无需翻阅无尽的 Confluence 页面或分散的文档。
 
 {{< youtube DyKzi8NznQ0 >}}
 
@@ -55,7 +55,7 @@ draft: false
 
 ## Confluence Wiki、手册、内部邮件 – 所有信息汇总
 
-将公司相关文档如手册、操作手册、技术指南或发票上传到 Doku-Chat.de。无论是详细的 Confluence 页面还是项目报告，您的团队都可以通过聊天提出精确问题，并立即收到带有来源参考的答案。他们甚至可以直接下载原始文档。
+将公司相关文档如手册、操作手册、技术指南或发票上传到 document-chat.com。无论是详细的 Confluence 页面还是项目报告，您的团队都可以通过聊天提出精确问题，并立即收到带有来源参考的答案。他们甚至可以直接下载原始文档。
 
 ## 让高管直接访问相关信息
 
@@ -63,11 +63,11 @@ draft: false
 
 ## 为您的技术和运营团队提供智能支持
 
-Confluence 和其他知识平台通常包含大量难以找到的信息。Doku-Chat.de 自动搜索所有可用内容，并为您的团队提供所需答案，使他们的工作更轻松。这使您的公司更具生产力，因为宝贵的知识变得直接可用。
+Confluence 和其他知识平台通常包含大量难以找到的信息。document-chat.com 自动搜索所有可用内容，并为您的团队提供所需答案，使他们的工作更轻松。这使您的公司更具生产力，因为宝贵的知识变得直接可用。
 
 ## 最大的数据保护 – 在德国托管，100%符合 GDPR
 
-您的数据存储在德国服务器上，确保非欧洲托管提供商无法访问。Doku-Chat.de 符合最高的安全和数据保护标准，包括 GDPR 以及金融服务提供商（BaFin）和医疗保健部门（Kliniklandeskrankenhausgesetz）的特定法规。您的公司知识保证受到保护并本地存储。
+您的数据存储在德国服务器上，确保非欧洲托管提供商无法访问。document-chat.com 符合最高的安全和数据保护标准，包括 GDPR 以及金融服务提供商（BaFin）和医疗保健部门（Kliniklandeskrankenhausgesetz）的特定法规。您的公司知识保证受到保护并本地存储。
 
 准备好互动且高效地利用您的公司知识了吗？
 

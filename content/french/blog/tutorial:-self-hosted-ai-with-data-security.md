@@ -2,37 +2,38 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- Agent conversationnel
-- AI
-- DIY
-- Tutoriel
+  - Agent conversationnel
+  - AI
+  - DIY
+  - Tutoriel
 date: '2020-04-09T07:40:24+06:00'
 description: this is meta description
 draft: false
 image: images/blogs/chatbox.jpeg
 title: 'Tutoriel : IA auto-hébergée avec sécurité des données grâce à Ollama et Chatbox'
-
 ---
+
 # Le Problème : 75 % des entreprises interdisent ChatGPT
 
-Malgré l'enthousiasme initial suscité par les outils d'IA générative comme ChatGPT, les entreprises restreignent leur utilisation en raison des préoccupations croissantes concernant la confidentialité des données et la cybersécurité.  La principale inquiétude est que ces outils d'IA stockent et apprennent à partir des données utilisateur, ce qui pourrait entraîner des violations de données non intentionnelles. Bien qu'OpenAI, le développeur de ChatGPT, propose une option de désinscription de la formation avec les données utilisateur, la gestion des données au sein du système reste imprécise.  De plus, il manque de réglementations juridiques claires concernant la responsabilité des violations de données causées par l'IA.  Par conséquent, les entreprises hésitent et attendent que la technologie et sa réglementation évoluent.
+Malgré l'enthousiasme initial suscité par les outils d'IA générative comme ChatGPT, les entreprises restreignent leur utilisation en raison des préoccupations croissantes concernant la confidentialité des données et la cybersécurité. La principale inquiétude est que ces outils d'IA stockent et apprennent à partir des données utilisateur, ce qui pourrait entraîner des violations de données non intentionnelles. Bien qu'OpenAI, le développeur de ChatGPT, propose une option de désinscription de la formation avec les données utilisateur, la gestion des données au sein du système reste imprécise. De plus, il manque de réglementations juridiques claires concernant la responsabilité des violations de données causées par l'IA. Par conséquent, les entreprises hésitent et attendent que la technologie et sa réglementation évoluent.
 
-Microsoft a prévenu ses employés contre le partage de données sensibles avec ChatGPT, le chatbot développé par OpenAI [Source](https://www.businessinsider.com/chatgpt-microsoft-warns-employees-not-to-share-sensitive-data-openai-2023-1).  Des inquiétudes se posent quant à la possibilité que des informations confidentielles soient accidentellement partagées avec le chatbot, potentiellement conduisant à leur diffusion à d'autres utilisateurs. L'approche prudente de Microsoft est notable étant donné le partenariat et l'investissement de l'entreprise dans OpenAI. Amazon a également adressé un avertissement similaire à ses employés. La responsabilité de la protection des données confidentielles reste floue, et des directives et réglementations plus claires pour de telles situations sont nécessaires. Les conditions d'utilisation d'OpenAI permettent à la société d'utiliser toutes les entrées et sorties générées par les utilisateurs et ChatGPT, même si les données personnelles sont censées être supprimées. Cependant, des inquiétudes persistent quant à la possibilité d'extraire des données confidentielles de l'entreprise par le biais de demandes d'entrée astucieusement conçues.
+Microsoft a prévenu ses employés contre le partage de données sensibles avec ChatGPT, le chatbot développé par OpenAI [Source](https://www.businessinsider.com/chatgpt-microsoft-warns-employees-not-to-share-sensitive-data-openai-2023-1). Des inquiétudes se posent quant à la possibilité que des informations confidentielles soient accidentellement partagées avec le chatbot, potentiellement conduisant à leur diffusion à d'autres utilisateurs. L'approche prudente de Microsoft est notable étant donné le partenariat et l'investissement de l'entreprise dans OpenAI. Amazon a également adressé un avertissement similaire à ses employés. La responsabilité de la protection des données confidentielles reste floue, et des directives et réglementations plus claires pour de telles situations sont nécessaires. Les conditions d'utilisation d'OpenAI permettent à la société d'utiliser toutes les entrées et sorties générées par les utilisateurs et ChatGPT, même si les données personnelles sont censées être supprimées. Cependant, des inquiétudes persistent quant à la possibilité d'extraire des données confidentielles de l'entreprise par le biais de demandes d'entrée astucieusement conçues.
 
 ## La Solution : Modèles IA Auto-Hébergés
 
 Une solution aux problèmes de sécurité et de confidentialité des données liés aux modèles IA est d'héberger ces modèles sur vos propres serveurs. Cela permet aux entreprises de conserver le contrôle de leurs données et de s'assurer qu'elles ne tombent pas entre de mauvaises mains. Les modèles IA auto-hébergés offrent un moyen sécurisé et fiable d'utiliser la technologie IA sans se soucier des problèmes de confidentialité et de cybersécurité des données.
 
-Nous utiliserons **Ollama** et **Chatbox**. Ollama est un outil simplifié pour exécuter localement des modèles de langage de grande taille (LLM) open source comme Mistral et Llama 2.  Chatbox est une application qui visualise les appels API vers différents modèles.
+Nous utiliserons **Ollama** et **Chatbox**. Ollama est un outil simplifié pour exécuter localement des modèles de langage de grande taille (LLM) open source comme Mistral et Llama 2. Chatbox est une application qui visualise les appels API vers différents modèles.
 
-> Cela vous semble-t-il trop compliqué ? Ou un API hébergé serait-il préférable ? Utilisez [doku-chat.de](/de/) ou [planifiez un appel introductif gratuit avec nous](https://datafortress.cloud/de/contact/).
+> Cela vous semble-t-il trop compliqué ? Ou un API hébergé serait-il préférable ? Utilisez [document-chat.com](/de/) ou [planifiez un appel introductif gratuit avec nous](https://datafortress.cloud/de/contact/).
 
 ### Étape 1 : Téléchargement et Installation d'Ollama
 
-Vous aurez besoin d'un serveur ou d'un ordinateur avec une carte graphique.  Malheureusement, il doit s'agir d'une carte graphique NVIDIA avec au moins 8 Go de VRAM, ou d'un Mac Apple avec une puce de la série M.
+Vous aurez besoin d'un serveur ou d'un ordinateur avec une carte graphique. Malheureusement, il doit s'agir d'une carte graphique NVIDIA avec au moins 8 Go de VRAM, ou d'un Mac Apple avec une puce de la série M.
 Trouvez les exigences exactes dans cet article : [Quels sont les avantages des modèles IA auto-hébergés ?](/de/blog/vorteile-von-selbst-gehosteten-ki-modellen/)
 
 > Version TLDR :
+>
 > 1. https://ollama.com/download
 > 2. `ollama run llama2`
 > 3. ollama est accessible sous localhost :11434
@@ -41,7 +42,7 @@ Trouvez les exigences exactes dans cet article : [Quels sont les avantages des 
 
 Ollama est un outil simplifié pour exécuter localement des modèles de langage de grande taille (LLM) open source comme Mistral et Llama 2. Ollama regroupe les poids du modèle, les configurations et les ensembles de données dans une seule entité gérée par un fichier modèle.
 
-> Cela vous semble-t-il trop compliqué ? Ou un API hébergé serait-il préférable ? Utilisez [doku-chat.de](/de/) ou [planifiez un appel introductif gratuit avec nous](https://datafortress.cloud/de/contact/).
+> Cela vous semble-t-il trop compliqué ? Ou un API hébergé serait-il préférable ? Utilisez [document-chat.com](/de/) ou [planifiez un appel introductif gratuit avec nous](https://datafortress.cloud/de/contact/).
 
 Ollama prend en charge divers LLM, notamment LLaMA-2, LLaMA non censuré, CodeLLaMA, Falcon, Mistral, Vicuna, WizardCoder et Wizard non censuré.
 
@@ -55,7 +56,6 @@ Les cinq modèles les plus populaires sur Ollama sont :
 - dolphin-mixtral : Un modèle non censuré et affiné basé sur le Mixtral MoE, particulièrement adapté aux tâches de codage.
 - mistral-openorca : Mistral 7 b, affiné avec l'ensemble de données OpenOrca.
 
-
 Ollama prend également en charge les modèles personnalisés. Vous pouvez créer un modèle à l'aide d'un fichier modèle, en spécifiant les couches, en écrivant les poids et en recevant un message de réussite.
 
 D'autres modèles disponibles incluent :
@@ -67,14 +67,12 @@ D'autres modèles disponibles incluent :
 - DeepSeek Coder : Entraîné à 87 % sur du code et à 13 % sur du langage naturel en anglais.
 - Meditron : Un modèle médical open source adapté de Llama 2 au domaine médical.
 
-
 #### Installation et Configuration d'Ollama
 
 - Téléchargez Ollama depuis le site officiel.
 - L'installation est simple, similaire à celle d'autres logiciels. Pour macOS et Linux, utilisez `curl https://ollama.ai/install.sh | sh`.
 - Ollama crée une API pour interagir avec le modèle localement.
 - Ollama est compatible avec macOS et Linux. La prise en charge de Windows est en cours de développement.
-
 
 Exécution de modèles avec Ollama
 
@@ -104,7 +102,6 @@ Chatbox est une application qui visualise les appels API vers différents modèl
 
 Visitez https://chatboxai.app et installez l'application sur votre ordinateur.
 
-
 ### Connexion de Chatbox et Ollama
 
 Notre modèle IA local est accessible à l'adresse localhost :11434. Chatbox permet une interaction facile avec Ollama. Cliquez sur "Paramètres" et sélectionnez Ollama comme "Fournisseur de modèle IA".
@@ -113,4 +110,4 @@ Notre modèle IA local est accessible à l'adresse localhost :11434. Chatbox pe
 
 Ensuite, sélectionnez le modèle souhaité (par exemple, `llama2`) dans la boîte de dialogue des modèles.
 
-> Cela vous semble-t-il trop compliqué ? Ou un API hébergé serait-il préférable ? Utilisez [doku-chat.de](/de/) ou [planifiez un appel introductif gratuit avec nous](https://datafortress.cloud/de/contact/).
+> Cela vous semble-t-il trop compliqué ? Ou un API hébergé serait-il préférable ? Utilisez [document-chat.com](/de/) ou [planifiez un appel introductif gratuit avec nous](https://datafortress.cloud/de/contact/).

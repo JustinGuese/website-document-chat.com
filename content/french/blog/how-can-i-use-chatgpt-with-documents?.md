@@ -2,19 +2,19 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- Agent conversationnel
-- AI
-- Tutoriel
+  - Agent conversationnel
+  - AI
+  - Tutoriel
 date: '2020-04-09T09:40:24+06:00'
 description: this is meta description
 draft: false
 image: images/blogs/chatdocs.webp
 title: 'Instructions : Comment utiliser ChatGPT avec des documents ?'
-
 ---
+
 # Introduction
 
-Les modèles linguistiques avancés comme ChatGPT possèdent indéniablement d'impressionnantes capacités à générer du texte de type humain et à répondre aux questions. Cependant, il est crucial de comprendre que ces modèles s'appuient sur des connaissances générales et n'ont pas accès à des informations contextuelles spécifiques.  De plus, ils fonctionnent souvent avec des bases de connaissances plus anciennes, ce qui signifie qu'ils peuvent ne pas avoir accès aux dernières informations.
+Les modèles linguistiques avancés comme ChatGPT possèdent indéniablement d'impressionnantes capacités à générer du texte de type humain et à répondre aux questions. Cependant, il est crucial de comprendre que ces modèles s'appuient sur des connaissances générales et n'ont pas accès à des informations contextuelles spécifiques. De plus, ils fonctionnent souvent avec des bases de connaissances plus anciennes, ce qui signifie qu'ils peuvent ne pas avoir accès aux dernières informations.
 
 Heureusement, il existe une solution à ce problème : vous pouvez télécharger vos propres documents, ce qui élargit la base de connaissances de ChatGPT. En fournissant des informations et une expertise spécifiques via des documents, vous pouvez garantir que ChatGPT a accès à des informations actuelles et contextuellement pertinentes.
 
@@ -23,7 +23,7 @@ Heureusement, il existe une solution à ce problème : vous pouvez télécharge
 Mais qu'en est-il de la sécurité des données ? Cette question est primordiale, surtout lorsqu'on envisage de télécharger ses propres documents et informations dans ChatGPT. Il est important de noter que des entreprises comme OpenAI et des fournisseurs similaires utilisent chaque entrée fournie à leurs modèles comme matériel d'entraînement. Bien que cela puisse contribuer à améliorer les capacités de l'IA, il existe un risque que des informations confidentielles, y compris des secrets d'entreprise, soient divulguées.
 
 > Astuce :
-Pour éviter que vos données ne soient utilisées par des fournisseurs américains d'IA comme OpenAI, envisagez d'exécuter un modèle IA « auto-hébergé ». Cela nécessite un serveur avec une carte graphique Nvidia et une configuration « torch » correspondante. Pour les solutions "bricolage", le projet open-source https://ollama.com est recommandé.  Alternativement, un fournisseur allemand d'IA, comme https://doku-chat.de ou https://datafortress.cloud, est une option. Doku-Chat.de propose également une organisation par projet, des fonctionnalités de partage/équipe utiles, et plus encore !
+> Pour éviter que vos données ne soient utilisées par des fournisseurs américains d'IA comme OpenAI, envisagez d'exécuter un modèle IA « auto-hébergé ». Cela nécessite un serveur avec une carte graphique Nvidia et une configuration « torch » correspondante. Pour les solutions "bricolage", le projet open-source https://ollama.com est recommandé. Alternativement, un fournisseur allemand d'IA, comme https://document-chat.com ou https://datafortress.cloud, est une option. document-chat.com propose également une organisation par projet, des fonctionnalités de partage/équipe utiles, et plus encore !
 
 Certains travailleurs du savoir signalent que ChatGPT augmente significativement leur productivité. Toutefois, des entreprises comme JP Morgan et Verizon ont bloqué ChatGPT en raison des risques pour les données confidentielles. Notre analyse indique que 4,7 % des employés ont inséré des données confidentielles dans ChatGPT.
 
@@ -57,8 +57,7 @@ ChatGPT propose également des fonctionnalités avancées telles que l'écriture
 
 Il est essentiel de prioriser la sécurité des données lors du téléchargement de documents sur ChatGPT. N'oubliez pas que OpenAI et les fournisseurs similaires peuvent utiliser chaque entrée dans leurs modèles comme données d'entraînement. Par conséquent, ne téléchargez que des informations non confidentielles ou des données chiffrées pour minimiser le risque de violations de données.
 
-
 > Astuce :
-Pour éviter que vos données ne soient utilisées par des fournisseurs américains d'IA comme OpenAI, envisagez d'exécuter un modèle IA « auto-hébergé ». Cela nécessite un serveur avec une carte graphique Nvidia et une configuration « torch » correspondante. Pour les solutions "bricolage", le projet open-source https://ollama.com est recommandé.  Alternativement, un fournisseur allemand d'IA, comme https://doku-chat.de ou https://datafortress.cloud, est une option. Doku-Chat.de propose également une organisation par projet, des fonctionnalités de partage/équipe utiles, et plus encore !
+> Pour éviter que vos données ne soient utilisées par des fournisseurs américains d'IA comme OpenAI, envisagez d'exécuter un modèle IA « auto-hébergé ». Cela nécessite un serveur avec une carte graphique Nvidia et une configuration « torch » correspondante. Pour les solutions "bricolage", le projet open-source https://ollama.com est recommandé. Alternativement, un fournisseur allemand d'IA, comme https://document-chat.com ou https://datafortress.cloud, est une option. document-chat.com propose également une organisation par projet, des fonctionnalités de partage/équipe utiles, et plus encore !
 
 Certains travailleurs du savoir signalent que ChatGPT augmente significativement leur productivité. Toutefois, des entreprises comme JP Morgan et Verizon ont bloqué ChatGPT en raison des risques pour les données confidentielles. Notre analyse indique que 4,7 % des employés ont inséré des données confidentielles dans ChatGPT.

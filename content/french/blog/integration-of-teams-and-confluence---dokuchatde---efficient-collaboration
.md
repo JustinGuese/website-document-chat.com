@@ -2,23 +2,25 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- ChatGPT
-- KI
-- Documents
+  - ChatGPT
+  - KI
+  - Documents
 date: '2024-03-14T14:10:41'
-description: 'Optimisez votre collaboration avec Doku-chat.de ! Intégrez Teams et
+description:
+  'Optimisez votre collaboration avec document-chat.com ! Intégrez Teams et
   Confluence pour un accès rapide aux documents et aux réponses via un chatbot – Conformité
   RGPD !
 
   '
 draft: false
 image: images/blogs/chatbox.jpeg
-title: 'Intégration d''équipe et de Confluence : Dokuchat.de pour une collaboration
+title:
+  "Intégration d'équipe et de Confluence : Dokuchat.de pour une collaboration
   efficace
 
-  '
-
+  "
 ---
+
 # Doku-Chat : Votre Solution pour une Interaction Documents Efficiente
 
 Dans le monde numérique d'aujourd'hui, où l'information circule plus vite que l'eau d'un robinet qui fuit, une interaction documentaire efficace est essentielle. Doku-Chat a été développé pour vous aider à trouver et à utiliser rapidement les informations cruciales. Que vous recherchiez des documents juridiques, que vous examiniez les politiques de l'entreprise ou que vous vérifiiez simplement les derniers chiffres des ventes, Doku-Chat le rend possible ! Grâce à notre approche innovante, nous apportons une nouvelle perspective à la gestion des documents.

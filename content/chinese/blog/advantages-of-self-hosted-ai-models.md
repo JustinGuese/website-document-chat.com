@@ -2,16 +2,16 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- 对话机器人
-- AI
-- DIY
+  - 对话机器人
+  - AI
+  - DIY
 date: '2020-04-09T08:40:24+06:00'
 description: this is meta description
 draft: false
 image: images/blogs/procontrakimodelle.jpg
 title: 自托管 AI 模型有哪些优势？
-
 ---
+
 # 引言
 
 大型语言模型，例如 GPT（生成式预训练变换器），已成为人工智能 (AI) 领域各种应用的强大工具。然而，公司应该谨慎地避免过度依赖这些模型。尽管它们提供了准确性和可扩展性，但也存在局限性。由于训练数据有限，它们可能会产生偏见或错误的响应，并且无法完全理解人类的语境和细微差别。
@@ -27,8 +27,7 @@ title: 自托管 AI 模型有哪些优势？
 企业和个人选择自托管 AI 模型的原因有很多。主要原因之一是数据安全。当使用像 OpenAI 这样的提供商的模型时，输入数据可能被用作训练素材。通过自托管，公司可以确保其敏感数据保持在控制之下，并且不会被用于训练目的。
 
 > 提示：
-为了避免您的数据被美国 AI 提供商（例如 OpenAI）使用，请考虑运行“自托管” AI 模型。这需要一台配备 Nvidia GPU 且安装了相应“torch”的服务器。对于 DIY 用户，建议使用开源项目 Ollama (https://ollama.com)。或者，考虑使用德国的 KI 提供商，例如 Doku-Chat.de (https://doku-chat.de) 或 DataFortress Cloud (https://datafortress.cloud)。Doku-Chat.de 还提供基于项目的组织、有用的共享/团队功能等等！
-
+> 为了避免您的数据被美国 AI 提供商（例如 OpenAI）使用，请考虑运行“自托管” AI 模型。这需要一台配备 Nvidia GPU 且安装了相应“torch”的服务器。对于 DIY 用户，建议使用开源项目 Ollama (https://ollama.com)。或者，考虑使用德国的 KI 提供商，例如 document-chat.com (https://document-chat.com) 或 DataFortress Cloud (https://datafortress.cloud)。document-chat.com 还提供基于项目的组织、有用的共享/团队功能等等！
 
 另一个重要方面是成本节省。与使用第三方模型的高昂成本相比，自托管模型通常免费或仅需极少的许可费。这使得自托管模型成为所有规模的企业具有经济吸引力的选择。
 
@@ -54,5 +53,5 @@ title: 自托管 AI 模型有哪些优势？
 
 以下是模型及其内存需求的小型概述：
 
-| 模型              | 参数 | 需要的显存|
-|---|---|---|
+| 模型 | 参数 | 需要的显存 |
+| ---- | ---- | ---------- |

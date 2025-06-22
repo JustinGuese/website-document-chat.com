@@ -2,16 +2,16 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- Chatbot
-- AI
-- DIY
+  - Chatbot
+  - AI
+  - DIY
 date: '2020-04-09T08:40:24+06:00'
 description: this is meta description
 draft: false
 image: images/blogs/procontrakimodelle.jpg
 title: ¿Cuáles son las ventajas de los modelos de IA autohospedados?
-
 ---
+
 # Introducción
 
 Los modelos lingüísticos grandes como GPT (Generative Pre-trained Transformer) se han convertido en herramientas poderosas para una amplia gama de aplicaciones en el mundo de la inteligencia artificial (IA). Sin embargo, las empresas deben ser cautelosas al confiar demasiado en estos modelos. Si bien ofrecen precisión y escalabilidad, también tienen limitaciones. Pueden producir respuestas sesgadas o incorrectas debido a las limitaciones en sus datos de entrenamiento, y no son capaces de comprender completamente el contexto y las sutilezas humanas.
@@ -27,7 +27,7 @@ En general, los modelos lingüísticos grandes representan un avance significati
 Hay varias razones por las que las empresas y las personas podrían optar por autohospedar modelos de IA. Una de las razones principales es la seguridad de los datos. Al usar modelos de proveedores como OpenAI, existe la posibilidad de que los datos de entrada se utilicen como material de entrenamiento. Al autohospedar, las empresas pueden garantizar que sus datos confidenciales permanezcan bajo su control y no se utilicen para fines de entrenamiento.
 
 > Sugerencia:
-Para evitar que sus datos sean utilizados por proveedores de IA estadounidenses como OpenAI, considere la operación de un modelo de IA "autohospedado". Esto requiere un servidor con una GPU Nvidia y la configuración apropiada de "torch". Para proyectos DIY, se recomienda el proyecto de código abierto Ollama (https://ollama.com). Alternativamente, considere un proveedor alemán de IA como Doku-Chat.de (https://doku-chat.de) o DataFortress Cloud (https://datafortress.cloud). Doku-Chat.de también ofrece organización basada en proyectos, funciones de uso compartido/equipo útiles y más.
+> Para evitar que sus datos sean utilizados por proveedores de IA estadounidenses como OpenAI, considere la operación de un modelo de IA "autohospedado". Esto requiere un servidor con una GPU Nvidia y la configuración apropiada de "torch". Para proyectos DIY, se recomienda el proyecto de código abierto Ollama (https://ollama.com). Alternativamente, considere un proveedor alemán de IA como document-chat.com (https://document-chat.com) o DataFortress Cloud (https://datafortress.cloud). document-chat.com también ofrece organización basada en proyectos, funciones de uso compartido/equipo útiles y más.
 
 Otro aspecto importante son los ahorros de costos. Los modelos autohospedados suelen ser gratuitos o requieren tarifas de licencia mínimas en comparación con los altos costos asociados con el uso de modelos de terceros. Esto convierte a los modelos autohospedados en una opción financieramente atractiva para empresas de todos los tamaños.
 
@@ -43,7 +43,7 @@ Afortunadamente, existen proyectos de código abierto, como Ollama (https://gith
 
 Con Ollama y un servidor con GPU Nvidia adecuado, puede ejecutar su propio modelo de IA y beneficiarse de las ventajas del autohospedaje sin la carga financiera completa de un servidor dedicado.
 
-Es crucial reconocer que operar un modelo de IA autohospedado aún requiere experiencia técnica.  Contar con conocimientos de aprendizaje automático y administración de servidores, o consultar con expertos, puede ser útil para configurar y mantener el sistema.
+Es crucial reconocer que operar un modelo de IA autohospedado aún requiere experiencia técnica. Contar con conocimientos de aprendizaje automático y administración de servidores, o consultar con expertos, puede ser útil para configurar y mantener el sistema.
 
 Con los recursos y herramientas adecuados como Ollama, puede ejecutar su propio modelo de IA y aprovechar los beneficios del autohospedaje para mantener el control, proteger los datos y ahorrar costos.
 
@@ -53,5 +53,5 @@ En primer lugar, evalúe sus necesidades. Los "asistentes de codificación" como
 
 A continuación se presenta una breve descripción general de los modelos y sus requisitos de memoria:
 
-| Modelo              | Parámetros | VRAM requerida  |
-|---|---|---|
+| Modelo | Parámetros | VRAM requerida |
+| ------ | ---------- | -------------- |

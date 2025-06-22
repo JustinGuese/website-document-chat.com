@@ -2,16 +2,16 @@
 author: Justin Güse
 author_profile: https://www.linkedin.com/in/justin-guese/
 categories:
-- Agent conversationnel
-- AI
-- DIY
+  - Agent conversationnel
+  - AI
+  - DIY
 date: '2020-04-09T08:40:24+06:00'
 description: this is meta description
 draft: false
 image: images/blogs/procontrakimodelle.jpg
 title: Quels sont les avantages des modèles d'IA hébergés en interne ?
-
 ---
+
 # Introduction
 
 Les grands modèles linguistiques comme GPT (Generative Pre-trained Transformer) sont devenus des outils puissants pour un large éventail d'applications dans le monde de l'intelligence artificielle (IA). Cependant, les entreprises doivent faire preuve de prudence quant à une dépendance excessive à ces modèles. Bien qu'ils offrent précision et évolutivité, ils présentent également des limites. Ils peuvent produire des réponses biaisées ou incorrectes en raison des limites de leurs données d'entraînement, et ils ne sont pas capables de comprendre pleinement le contexte et les nuances humaines.
@@ -27,7 +27,7 @@ Dans l'ensemble, les grands modèles linguistiques représentent un progrès sig
 Plusieurs raisons peuvent amener les entreprises et les particuliers à choisir d'auto-héberger des modèles IA. L'une des raisons principales est la sécurité des données. Lorsqu'on utilise des modèles de fournisseurs comme OpenAI, il existe un risque que les données d'entrée soient utilisées comme matériel d'entraînement. En auto-hébergeant, les entreprises peuvent garantir que leurs données sensibles restent sous leur contrôle et ne soient pas utilisées à des fins d'entraînement.
 
 > Astuce :
-Pour éviter que vos données ne soient utilisées par les fournisseurs américains d'IA comme OpenAI, envisagez d'exploiter un modèle IA "auto-hébergé". Cela nécessite un serveur avec une carte graphique Nvidia et la configuration "torch" appropriée. Pour un système DIY, le projet open-source Ollama (https://ollama.com) est recommandé. Vous pouvez également envisager un fournisseur KI allemand comme Doku-Chat.de (https://doku-chat.de) ou DataFortress Cloud (https://datafortress.cloud). Doku-Chat.de offre également une organisation par projet, des fonctionnalités de partage/équipe utiles et plus encore !
+> Pour éviter que vos données ne soient utilisées par les fournisseurs américains d'IA comme OpenAI, envisagez d'exploiter un modèle IA "auto-hébergé". Cela nécessite un serveur avec une carte graphique Nvidia et la configuration "torch" appropriée. Pour un système DIY, le projet open-source Ollama (https://ollama.com) est recommandé. Vous pouvez également envisager un fournisseur KI allemand comme document-chat.com (https://document-chat.com) ou DataFortress Cloud (https://datafortress.cloud). document-chat.com offre également une organisation par projet, des fonctionnalités de partage/équipe utiles et plus encore !
 
 Un autre aspect important est la réduction des coûts. Les modèles auto-hébergés sont généralement gratuits ou exigent des frais de licence minimes comparés aux coûts élevés associés à l'utilisation de modèles tiers. Cela fait des modèles auto-hébergés une option financièrement attrayante pour les entreprises de toutes tailles.
 
@@ -53,7 +53,5 @@ Tout d'abord, évaluez vos besoins. Les "assistants de codage" comme GitHub Copi
 
 Un petit aperçu des modèles et de leurs besoins en mémoire est présenté ci-dessous :
 
-| Modèle              | Paramètres | VRAM requise |
-|---|---|---|
-
-
+| Modèle | Paramètres | VRAM requise |
+| ------ | ---------- | ------------ |

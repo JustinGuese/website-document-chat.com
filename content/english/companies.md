@@ -1,6 +1,6 @@
 ---
-title: 'Efficient Use of Company Knowledge with Doku-Chat.de'
-description: 'Efficient Use of Company Knowledge with Doku-Chat.de: Instant access to company knowledge in Teams, Slack, and more. Optimize customer service, sales, and internal processes.'
+title: 'Efficient Use of Company Knowledge with document-chat.com'
+description: 'Efficient Use of Company Knowledge with document-chat.com: Instant access to company knowledge in Teams, Slack, and more. Optimize customer service, sales, and internal processes.'
 draft: false
 ---
 
@@ -8,7 +8,7 @@ draft: false
 
 {{< youtube DyKzi8NznQ0 >}}
 
-With Doku-Chat.de, your entire company knowledge becomes instantly available and efficiently usable – exactly where your team needs it: in Microsoft Teams, Slack, WhatsApp, and other tools. Our solution takes chatbot functionality to a new level, allowing you and your team to interact directly with company-specific information without having to sift through endless Confluence pages or scattered documents.
+With document-chat.com, your entire company knowledge becomes instantly available and efficiently usable – exactly where your team needs it: in Microsoft Teams, Slack, WhatsApp, and other tools. Our solution takes chatbot functionality to a new level, allowing you and your team to interact directly with company-specific information without having to sift through endless Confluence pages or scattered documents.
 
 <a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">Free 15-minute Consultation</a>
 
@@ -55,7 +55,7 @@ These use cases show only a part of the possibilities of how **document-chat** c
 
 ## Confluence Wiki, Manuals, Internal Emails – All Information Bundled
 
-Upload company-relevant documents such as manuals, playbooks, technical guides, or invoices to Doku-Chat.de. Whether it's detailed Confluence pages or project reports, your teams can ask precise questions via chat and receive immediate answers with source references. They can even download the original document directly.
+Upload company-relevant documents such as manuals, playbooks, technical guides, or invoices to document-chat.com. Whether it's detailed Confluence pages or project reports, your teams can ask precise questions via chat and receive immediate answers with source references. They can even download the original document directly.
 
 ## Enable Executives to Access Relevant Information Directly
 
@@ -63,11 +63,11 @@ Imagine the CEO can ask the bot: "When was our last meeting with Client XY?" or 
 
 ## Intelligent Support for Your Technical and Operational Teams
 
-Confluence and other knowledge platforms often contain extensive information that is hard to find. Doku-Chat.de automatically searches all available content and provides your teams with the answers they need to make their work easier. This makes your company more productive as valuable knowledge becomes directly accessible.
+Confluence and other knowledge platforms often contain extensive information that is hard to find. document-chat.com automatically searches all available content and provides your teams with the answers they need to make their work easier. This makes your company more productive as valuable knowledge becomes directly accessible.
 
 ## Maximum Data Protection – Hosting in Germany, 100% GDPR-compliant
 
-Your data is secured on German servers, ensuring no access by non-European hosting providers. Doku-Chat.de meets the highest security and data protection standards, including GDPR as well as specific regulations for financial service providers (BaFin) and the healthcare sector (Kliniklandeskrankenhausgesetz). Your company knowledge remains guaranteed protected and locally stored.
+Your data is secured on German servers, ensuring no access by non-European hosting providers. document-chat.com meets the highest security and data protection standards, including GDPR as well as specific regulations for financial service providers (BaFin) and the healthcare sector (Kliniklandeskrankenhausgesetz). Your company knowledge remains guaranteed protected and locally stored.
 
 Ready to use your company knowledge interactively and efficiently?
 
