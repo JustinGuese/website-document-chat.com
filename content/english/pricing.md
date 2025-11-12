@@ -16,7 +16,7 @@ pricing_card:
     yearly_price: '0'
     featured: false
     button_label: 'Try Now'
-    button_link: 'https://auth.datafortress.cloud/leanai/register'
+    button_link: 'https://app.document-chat.com'
     services:
       - '1 Project'
       - '1 Chat'

@@ -6,7 +6,7 @@ monthly_yearly_toggle: cambiar
 offer: ¡Ahorra hasta un 40% en planes anuales!
 pricing_card:
   - button_label: ¡Pruébalo ahora!
-    button_link: https://auth.datafortress.cloud/leanai/register
+    button_link: https://app.document-chat.com
     content:
       '¡Nuestro "para siempre gratis" ¡es para siempre gratis! Limitado, pero
       perfecto para conocer y probar. Sin necesidad de tarjeta de crédito.

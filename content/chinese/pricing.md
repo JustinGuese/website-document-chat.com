@@ -6,7 +6,7 @@ monthly_yearly_toggle: 切换
 offer: 年度计划最高可节省 40%！
 pricing_card:
   - button_label: 立即尝试
-    button_link: https://auth.datafortress.cloud/leanai/register
+    button_link: https://app.document-chat.com
     content: 我们的“永久免费”永久有效！数量有限，非常适合试用和了解。无需信用卡。
     currency: €
     featured: false
