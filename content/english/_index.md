@@ -4,10 +4,10 @@ banner:
   enable: true
   title: 'Chat with your **Documents**!'
   content: '**ChatGPT & co are too general**? **document-chat.com** knows your uploaded documents and responds with **specific company knowledge including sources**!'
-  image: 'images/screenshots/banner-shot.png'
+  image: 'images/screenshots/ytvidbanner.png'
   video:
     enable: true
-    video_embed_link: 'https://youtube.com/embed/DyKzi8NznQ0'
+    video_embed_link: 'https://www.youtube.com/embed/DlMgG7tIVZo?si=hKVsVqJbHKEGhCJ3'
   form:
     enable: true
     form_action: 'https://formspree.io/f/xbjnpgko'

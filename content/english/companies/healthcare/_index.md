@@ -4,7 +4,7 @@ banner:
   enable: true
   title: 'Find **Medical Processes** instantly!'
   content: '**Thousands of pages** of process documentation? **document-chat.com** knows your manuals and standards (PDF) and provides you and your nurses/employees with the **right answers with references** instantly!'
-  image: 'images/screenshots/banner-shot.png'
+  image: 'images/screenshots/ytvidbanner.png'
   video:
     enable: true
     video_embed_link: '/videos/Doku-Chat_Ad-en-company-focus-harry-e.mp4'

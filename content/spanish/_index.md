@@ -72,11 +72,11 @@ banner:
       una solución autohospedada.
 
       '
-  image: images/screenshots/banner-shot.png
+  image: images/screenshots/ytvidbanner.png
   title: ¡Chatea con tus **Documentos**!
   video:
     enable: true
-    video_embed_link: https://youtube.com/embed/DyKzi8NznQ0
+    video_embed_link: https://www.youtube.com/embed/DlMgG7tIVZo?si=hKVsVqJbHKEGhCJ3
 clients_logo_slider:
   enable: false
   logos:

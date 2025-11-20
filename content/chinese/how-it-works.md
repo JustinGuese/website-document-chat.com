@@ -11,16 +11,15 @@ title: 如何运作
     <h2 class="mb-2">主视频</h2>
     <div class="row align-items-center justify-content-around">
       <div class="col-lg-7" data-aos="fade-up" data-aos-delay="150">
-        <video
+        <iframe
           width="600"
-          preload="none"
-          controls
-          poster="/videos/dokuchat-demo-thumbnail.png"
-        >
-          <source src="/videos/dokuchat-handson-demo.webm" type="video/webm" />
-          <source src="/videos/dokuchat-handson-demo.mp4" type="video/mp4" />
-          您的浏览器不支持该视频标签。
-        </video>
+          height="338"
+          src="https://www.youtube.com/embed/DlMgG7tIVZo?si=hKVsVqJbHKEGhCJ3"
+          title="document-chat.com 演示"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+          allowfullscreen
+        ></iframe>
       </div>
       <div class="col-lg-4 mt-4 mt-lg-0" data-aos="fade-in">
         <div class="content">

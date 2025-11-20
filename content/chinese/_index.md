@@ -4,10 +4,10 @@ banner:
   enable: true
   title: '与您的**文档**聊天！'
   content: '**ChatGPT & co 太过通用**？**document-chat.com**了解您上传的文档，并以**具体的公司知识和来源**进行回应！'
-  image: 'images/screenshots/banner-shot.png'
+  image: 'images/screenshots/ytvidbanner.png'
   video:
     enable: true
-    video_embed_link: 'https://youtube.com/embed/DyKzi8NznQ0'
+    video_embed_link: 'https://www.youtube.com/embed/DlMgG7tIVZo?si=hKVsVqJbHKEGhCJ3'
   form:
     enable: true
     form_action: 'https://formspree.io/f/xbjnpgko'
