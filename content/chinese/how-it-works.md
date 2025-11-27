@@ -14,7 +14,7 @@ title: 如何运作
         <iframe
           width="600"
           height="338"
-          src="https://www.youtube.com/embed/DlMgG7tIVZo?si=hKVsVqJbHKEGhCJ3"
+          src="https://www.youtube.com/embed/t3MmZAOZljE?si=L-TLR0FQPtujshc1"
           title="document-chat.com 演示"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"

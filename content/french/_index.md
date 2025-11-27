@@ -80,7 +80,7 @@ banner:
   title: Discutez avec vos **Documents**!
   video:
     enable: true
-    video_embed_link: https://www.youtube.com/embed/DlMgG7tIVZo?si=hKVsVqJbHKEGhCJ3
+    video_embed_link: https://www.youtube.com/embed/t3MmZAOZljE?si=L-TLR0FQPtujshc1
 clients_logo_slider:
   enable: false
   logos:

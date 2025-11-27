@@ -7,7 +7,7 @@ banner:
   image: 'images/screenshots/ytvidbanner.png'
   video:
     enable: true
-    video_embed_link: 'https://www.youtube.com/embed/DlMgG7tIVZo?si=hKVsVqJbHKEGhCJ3'
+    video_embed_link: 'https://www.youtube.com/embed/t3MmZAOZljE?si=L-TLR0FQPtujshc1'
   form:
     enable: true
     form_action: 'https://formspree.io/f/xbjnpgko'
