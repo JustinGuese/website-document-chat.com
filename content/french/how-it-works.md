@@ -40,7 +40,7 @@ title: Comment ça fonctionne
             <h2 class="mb-2">Option 1 : Prise en main</h2>
             <p>Réservez une prise en main gratuite de 30 minutes et obtenez le <strong>forfait Plus gratuitement pendant un mois!</strong></p>
             <p>Sans engagement, 1:1 avec le développeur.</p>
-            <a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">Réserver</a>
+            <a id="book_meeting" class="btn btn-primary text-white" href="https://cal.com/datafortress-justin/15min" target="_blank">Réserver</a>
           </div>
         </div>
       </div>

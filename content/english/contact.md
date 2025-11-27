@@ -28,4 +28,4 @@ services:
 
 Not sure where to start? We're happy to assist you with an initial assessment without obligation.
 
-<a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">Free 15-minute Consultation</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://cal.com/datafortress-justin/15min" target="_blank">Free 15-minute Consultation</a>

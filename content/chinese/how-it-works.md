@@ -45,7 +45,7 @@ title: 如何运作
               >
             </p>
             <p>非约束性，一对一与开发者沟通。</p>
-            <a href="https://calendly.com/justin-guese/15min">
+            <a href="https://cal.com/datafortress-justin/15min">
               <button class="btn btn-primary mt-4">立即预订</button>
             </a>
           </div>

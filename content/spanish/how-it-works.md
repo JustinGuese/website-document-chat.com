@@ -40,7 +40,7 @@ title: Cómo Funciona
             <h2 class="mb-2">Opción 1: Integración</h2>
             <p>Reserva una integración de 30 minutos gratuita y obtén el paquete <strong>Plus ¡gratis durante un mes!</strong></p>
             <p>Sin compromiso, 1:1 con el desarrollador.</p>
-            <a href="https://calendly.com/justin-guese/15min">
+            <a href="https://cal.com/datafortress-justin/15min">
               <button class="btn btn-primary mt-4">Reservar Ahora</button>
             </a>
           </div>

@@ -10,7 +10,7 @@ draft: false
 
 {{< youtube DyKzi8NznQ0 >}}
 
-<a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">免费 15 分钟咨询</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://cal.com/datafortress-justin/15min" target="_blank">免费 15 分钟咨询</a>
 
 ## 使用案例
 
@@ -71,4 +71,4 @@ Confluence 和其他知识平台通常包含大量难以找到的信息。docume
 
 准备好互动且高效地利用您的公司知识了吗？
 
-<a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">免费 15 分钟咨询</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://cal.com/datafortress-justin/15min" target="_blank">免费 15 分钟咨询</a>

@@ -24,4 +24,4 @@ title: Contáctanos
 
 ¿No sabe por dónde empezar? Estamos encantados de ayudarlo con una evaluación inicial sin compromiso.
 
-<a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">Consulta gratuita de 15 minutos</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://cal.com/datafortress-justin/15min" target="_blank">Consulta gratuita de 15 minutos</a>

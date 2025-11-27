@@ -22,4 +22,4 @@ title: 联系我们
 
 ## 联系我们不知从何入手？我们很乐意为您提供初步评估，无需任何义务。
 
-<a id="book_meeting" class="btn btn-primary text-white" href="https://calendly.com/justin-guese/15min" target="_blank">免费 15 分钟咨询</a>
+<a id="book_meeting" class="btn btn-primary text-white" href="https://cal.com/datafortress-justin/15min" target="_blank">免费 15 分钟咨询</a>
