@@ -3,8 +3,8 @@ description: this is meta description
 draft: false
 layout: regular
 title: Términos y Condiciones
-
 ---
+
 # Términos y Condiciones de
 
 **document-chat.com**
@@ -21,12 +21,12 @@ Los usuarios deben leer este documento cuidadosamente.
 Esta aplicación es proporcionada por:
 
 DataFortress.cloud GmbH  
-Georgenstraße 13  
-86152 Augsburg  
+Gewerbestraße 13  
+82064 Straßlach-Dingharting  
 Alemania  
-DE345185498  
+DE345185498
 
-**Correo de Contacto del Propietario:** info@datafortress.cloud  
+**Correo de Contacto del Propietario:** info@datafortress.cloud
 
 **Lo que el Usuario Debe Saber de un Vistazo**
 

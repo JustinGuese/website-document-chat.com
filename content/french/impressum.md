@@ -1,8 +1,8 @@
 Responsable du contenu de ce site web :
 
 DataFortress.cloud GmbH
-Georgenstraße 13
-86152 Augsbourg
+Gewerbestraße 13
+82064 Straßlach-Dingharting
 Allemagne
 DE345185498
 

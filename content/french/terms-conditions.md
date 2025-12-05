@@ -3,8 +3,8 @@ description: this is meta description
 draft: false
 layout: regular
 title: Conditions Générales
-
 ---
+
 # Conditions Générales de
 
 **document-chat.com**
@@ -21,8 +21,8 @@ Les utilisateurs doivent lire attentivement ce document.
 Cette application est fournie par :
 
 DataFortress.cloud GmbH
-Georgenstraße 13
-86152 Augsbourg
+Gewerbestraße 13
+82064 Straßlach-Dingharting
 Allemagne
 DE345185498
 

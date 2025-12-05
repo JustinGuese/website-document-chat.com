@@ -3,9 +3,9 @@ description: this is meta description
 draft: false
 layout: regular
 title: 服务条款
-
 ---
-# document-chat.com使用条款
+
+# document-chat.com 使用条款
 
 本条款规定
 
@@ -19,8 +19,8 @@ title: 服务条款
 本应用由以下组织提供：
 
 DataFortress.cloud GmbH
-Georgenstraße 13
-86152 奥格斯堡
+Gewerbestraße 13
+82064 奥格斯堡
 德国
 DE345185498
 

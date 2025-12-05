@@ -1,11 +1,11 @@
 Responsible for the content of this website:
 
 DataFortress.cloud GmbH
-Georgenstraße 13
-86152 Augsburg
+Gewerbestraße 13
+82064 Straßlach-Dingharting
 Germany
 DE345185498
 
-HRB 36456 
+HRB 36456
 
 info@datafortress.cloud

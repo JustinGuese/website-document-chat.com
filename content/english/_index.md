@@ -191,7 +191,7 @@ about_us:
   enable: true
   title: 'Who are **we?**'
   image: 'images/about/01.jpg'
-  content: 'DataFortress.cloud is a company based in Augsburg, Germany, specializing in Data Engineering in the Machine Learning / Big Data field. Our clients include VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), and many more. Now, we also offer our expertise in the form of SaaS products.'
+  content: 'DataFortress.cloud is a company based in Straßlach-Dingharting, Germany, specializing in Data Engineering in the Machine Learning / Big Data field. Our clients include VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), and many more. Now, we also offer our expertise in the form of SaaS products.'
   bulletpoints:
     - 'Enterprise clients (VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), and many more)'
     - 'Data Engineering Data Protection Knowledge for Finance / Health'

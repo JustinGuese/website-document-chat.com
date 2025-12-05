@@ -7,7 +7,7 @@ about_us:
     - ¿Falta algo en esta solución? ¡También podemos desarrollar una solución personalizada
       para ti!
   content:
-    'DataFortress.cloud es una empresa con sede en Augsburgo, Alemania, especializada
+    'DataFortress.cloud es una empresa con sede en Straßlach-Dinghartingo, Alemania, especializada
     en Ingeniería de Datos en el campo del Machine Learning/Big Data. Nuestros clientes
     incluyen VW, BMW, Porsche, HPE, Atruvia (Sparkasse & Volksbank), y muchos más.
     Ahora, también ofrecemos nuestra experiencia en forma de productos SaaS.
